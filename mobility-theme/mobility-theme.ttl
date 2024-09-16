@@ -18,756 +18,756 @@
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-category>
   skos:narrower <https://w3id.org/mobilitydcat-ap/mobility-theme/air-and-space-travel>, <https://w3id.org/mobilitydcat-ap/mobility-theme/cycle-network-data>, <https://w3id.org/mobilitydcat-ap/mobility-theme/dynamic-traffic-signs-and-regulations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/filling-and-charging-stations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/freight-and-logistics>, <https://w3id.org/mobilitydcat-ap/mobility-theme/general-information-for-trip-planning->, <https://w3id.org/mobilitydcat-ap/mobility-theme/other>, <https://w3id.org/mobilitydcat-ap/mobility-theme/parking-service-and-rest-area-information>, <https://w3id.org/mobilitydcat-ap/mobility-theme/pedestrian-network-data>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-non-scheduled-transport>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-scheduled-transport>, <https://w3id.org/mobilitydcat-ap/mobility-theme/real-time-traffic-data>, <https://w3id.org/mobilitydcat-ap/mobility-theme/road-events-and-conditions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/road-work-information>, <https://w3id.org/mobilitydcat-ap/mobility-theme/sharing-and-hiring-services>, <https://w3id.org/mobilitydcat-ap/mobility-theme/static-road-network-data>, <https://w3id.org/mobilitydcat-ap/mobility-theme/static-traffic-signs-and-regulations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/toll-information>, <https://w3id.org/mobilitydcat-ap/mobility-theme/waterways-and-water-bodies> ;
-  skos:prefLabel "Data content category"@en ;
+  skos:prefLabel "Data content category"@en, "Kategorie des Dateninhalts"@de, "Категория на съдържанието на данните"@bg, "Kategori af dataindhold"@da, "Andmete sisukategooria"@et, "Tietosisältöluokka"@fi, "Catégorie de contenu des données"@fr, "Κατηγορία περιεχομένου δεδομένων"@el, "Categoria di contenuto dei dati"@it, "Datu satura kategorija"@lv, "Duomenų turinio kategorija"@lt, "Categorie gegevensinhoud"@nl, "Kategoria zawartości danych"@pl, "Categoria de conteúdo de dados"@pt-pt, "Categoria conținutului datelor"@ro, "Kategori av datainnehåll"@sv, "Kategória obsahu údajov"@sk, "Kategorija vsebine podatkov"@sl, "Categoría de contenido de los datos"@es, "Kategorie obsahu dat"@cs, "Adattartalom-kategória"@hu ;
   a skos:Concept ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> ;
   skos:topConceptOf <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>
   skos:narrower <https://w3id.org/mobilitydcat-ap/mobility-theme/accesibility-information-for-vehicles>, <https://w3id.org/mobilitydcat-ap/mobility-theme/accidents-and-incidents>, <https://w3id.org/mobilitydcat-ap/mobility-theme/address-identifiers>, <https://w3id.org/mobilitydcat-ap/mobility-theme/applicable-road-user-charges-and-payment-methods>, <https://w3id.org/mobilitydcat-ap/mobility-theme/availability-of-charging-points-for-electric-vehicles>, <https://w3id.org/mobilitydcat-ap/mobility-theme/availability-of-delivery-areas>, <https://w3id.org/mobilitydcat-ap/mobility-theme/availability-of-filling-stations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/basic-commercial-conditions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/basic-common-standard-fares>, <https://w3id.org/mobilitydcat-ap/mobility-theme/bike-hiring-availability>, <https://w3id.org/mobilitydcat-ap/mobility-theme/bike-hiring-stations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/bike-parking-locations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/bike-sharing-availability>, <https://w3id.org/mobilitydcat-ap/mobility-theme/bike-sharing-locations-and-stations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/bridge-access-conditions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/bridge-closures-and-access-conditions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/car-hiring-availability>, <https://w3id.org/mobilitydcat-ap/mobility-theme/car-hiring-stations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/car-parking-availability>, <https://w3id.org/mobilitydcat-ap/mobility-theme/car-parking-locations-and-conditions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/car-sharing-availability>, <https://w3id.org/mobilitydcat-ap/mobility-theme/car-sharing-locations-and-stations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/common-fare-products>, <https://w3id.org/mobilitydcat-ap/mobility-theme/connection-links>, <https://w3id.org/mobilitydcat-ap/mobility-theme/current-travel-times>, <https://w3id.org/mobilitydcat-ap/mobility-theme/direction-of-travel-on-reversible-lanes>, <https://w3id.org/mobilitydcat-ap/mobility-theme/disruptions-delays-cancellations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/dynamic-overtaking-bans-on-heavy-goods-vehicles>, <https://w3id.org/mobilitydcat-ap/mobility-theme/dynamic-speed-limits>, <https://w3id.org/mobilitydcat-ap/mobility-theme/e-scooter-sharing-availability>, <https://w3id.org/mobilitydcat-ap/mobility-theme/e-scooter-sharing-locations-and-stations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/environmental-standards-for-vehicles>, <https://w3id.org/mobilitydcat-ap/mobility-theme/expected-delays>, <https://w3id.org/mobilitydcat-ap/mobility-theme/fares>, <https://w3id.org/mobilitydcat-ap/mobility-theme/freight-delivery-regulations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/geometry>, <https://w3id.org/mobilitydcat-ap/mobility-theme/gradients>, <https://w3id.org/mobilitydcat-ap/mobility-theme/hours-of-operation>, <https://w3id.org/mobilitydcat-ap/mobility-theme/identification-of-tolled-roads>, <https://w3id.org/mobilitydcat-ap/mobility-theme/junctions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/lane-closures-and-access-conditions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/location-and-conditions-of-charging-points>, <https://w3id.org/mobilitydcat-ap/mobility-theme/location-and-conditions-of-filling-stations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/location-and-length-of-queues>, <https://w3id.org/mobilitydcat-ap/mobility-theme/location-of-delivery-areas>, <https://w3id.org/mobilitydcat-ap/mobility-theme/location-of-tolling-stations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/locations-and-stations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/long-term-road-works>, <https://w3id.org/mobilitydcat-ap/mobility-theme/network-closures-diversions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/network-detailed-attributes>, <https://w3id.org/mobilitydcat-ap/mobility-theme/network-geometry-and-lane-character>, <https://w3id.org/mobilitydcat-ap/mobility-theme/network-topology-and-routes-lines>, <https://w3id.org/mobilitydcat-ap/mobility-theme/number-of-lanes>, <https://w3id.org/mobilitydcat-ap/mobility-theme/operational-calendar>, <https://w3id.org/mobilitydcat-ap/mobility-theme/other-access-restrictions-and-traffic-regulations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/other-static-traffic-signs>, <https://w3id.org/mobilitydcat-ap/mobility-theme/other-temporary-traffic-management-measures-or-plans>, <https://w3id.org/mobilitydcat-ap/mobility-theme/other-traffic-regulations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/parameters-needed-to-calculate-costs>, <https://w3id.org/mobilitydcat-ap/mobility-theme/parameters-needed-to-calculate-environmental-factors>, <https://w3id.org/mobilitydcat-ap/mobility-theme/park-and-ride-stops>, <https://w3id.org/mobilitydcat-ap/mobility-theme/passenger-classes>, <https://w3id.org/mobilitydcat-ap/mobility-theme/payment-methods>, <https://w3id.org/mobilitydcat-ap/mobility-theme/payment-methods-for-tolls>, <https://w3id.org/mobilitydcat-ap/mobility-theme/pedestrian-accessibility-facilities>, <https://w3id.org/mobilitydcat-ap/mobility-theme/pedestrian-network-geometry>, <https://w3id.org/mobilitydcat-ap/mobility-theme/permanent-access-restrictions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/planned-interchanges-between-scheduled-services>, <https://w3id.org/mobilitydcat-ap/mobility-theme/points-of-interest>, <https://w3id.org/mobilitydcat-ap/mobility-theme/poor-road-conditions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/predicted-travel-times>, <https://w3id.org/mobilitydcat-ap/mobility-theme/provider-data>, <https://w3id.org/mobilitydcat-ap/mobility-theme/purchase-information>, <https://w3id.org/mobilitydcat-ap/mobility-theme/real-time-estimated-departure-and-arrival-times>, <https://w3id.org/mobilitydcat-ap/mobility-theme/reservation-and-purchase-options>, <https://w3id.org/mobilitydcat-ap/mobility-theme/road-classification>, <https://w3id.org/mobilitydcat-ap/mobility-theme/road-closures-and-access-conditions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/road-weather-conditions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/road-width>, <https://w3id.org/mobilitydcat-ap/mobility-theme/service-and-rest-area-availability>, <https://w3id.org/mobilitydcat-ap/mobility-theme/service-and-rest-area-locations-and-conditions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/service-areas-and-service-times>, <https://w3id.org/mobilitydcat-ap/mobility-theme/short-term-road-works>, <https://w3id.org/mobilitydcat-ap/mobility-theme/special-fare-products>, <https://w3id.org/mobilitydcat-ap/mobility-theme/speed>, <https://w3id.org/mobilitydcat-ap/mobility-theme/speed-limits>, <https://w3id.org/mobilitydcat-ap/mobility-theme/stop-facilities-accessibility-and-paths-within-facility>, <https://w3id.org/mobilitydcat-ap/mobility-theme/stop-facilities-geometry-and-map-layout>, <https://w3id.org/mobilitydcat-ap/mobility-theme/stop-facilities-location-and-features>, <https://w3id.org/mobilitydcat-ap/mobility-theme/stop-facilities-status-of-features>, <https://w3id.org/mobilitydcat-ap/mobility-theme/timetables-static>, <https://w3id.org/mobilitydcat-ap/mobility-theme/topographic-places>, <https://w3id.org/mobilitydcat-ap/mobility-theme/traffic-circulation-plans>, <https://w3id.org/mobilitydcat-ap/mobility-theme/traffic-data-at-border-crossings-to-third-countries>, <https://w3id.org/mobilitydcat-ap/mobility-theme/traffic-volume>, <https://w3id.org/mobilitydcat-ap/mobility-theme/transport-operators>, <https://w3id.org/mobilitydcat-ap/mobility-theme/truck-parking-availability>, <https://w3id.org/mobilitydcat-ap/mobility-theme/truck-parking-locations-and-conditions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/tunnel-access-conditions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/tunnel-closures-and-access-conditions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/vehicle-details>, <https://w3id.org/mobilitydcat-ap/mobility-theme/waiting-time-at-border-crossings-to-non-eu-member-states> ;
-  skos:prefLabel "Data content sub-category"@en ;
+  skos:prefLabel "Data content sub-category"@en, "Unterkategorie Dateninhalt"@de, "Подкатегория Съдържание на данни"@bg, "Underkategori for dataindhold"@da, "Andmete sisu alamkategooria"@et, "Tietosisällön alaluokka"@fi, "Sous-catégorie du contenu des données"@fr, "Υποκατηγορία περιεχομένου δεδομένων"@el, "Sottocategoria Contenuto dei dati"@it, "Datu satura apakškategorija"@lv, "Duomenų turinio subkategorija"@lt, "Subcategorie gegevensinhoud"@nl, "Podkategoria zawartości danych"@pl, "Subcategoria de conteúdo de dados"@pt-pt, "Subcategorie conținut date"@ro, "Underkategori för datainnehåll"@sv, "Podkategória obsahu údajov"@sk, "Podkategorija vsebine podatkov"@sl, "Subcategoría de contenido de datos"@es, "Podkategorie obsahu dat"@cs, "Adattartalom alkategória"@hu ;
   a skos:Concept ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> ;
   skos:topConceptOf <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/static-road-network-data>
   skos:narrower <https://w3id.org/mobilitydcat-ap/mobility-theme/geometry>, <https://w3id.org/mobilitydcat-ap/mobility-theme/gradients>, <https://w3id.org/mobilitydcat-ap/mobility-theme/junctions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/number-of-lanes>, <https://w3id.org/mobilitydcat-ap/mobility-theme/road-classification>, <https://w3id.org/mobilitydcat-ap/mobility-theme/road-width> ;
-  skos:prefLabel "Static road network data"@en ;
+  skos:prefLabel "Static road network data"@en, "Statische Straßennetzdaten"@de, "Статични данни за пътната мрежа"@bg, "Statiske data om vejnettet"@da, "Staatilised teedevõrgu andmed"@et, "Staattiset tieverkkotiedot"@fi, "Données statiques sur le réseau routier"@fr, "Στατικά δεδομένα οδικού δικτύου"@el, "Dati statici sulla rete stradale"@it, "Statiskie ceļu tīkla dati"@lv, "Statiniai kelių tinklo duomenys"@lt, "Statische wegennetgegevens"@nl, "Statyczne dane sieci drogowej"@pl, "Dados estáticos da rede rodoviária"@pt-pt, "Date statice privind rețeaua rutieră"@ro, "Statiska data om vägnätet"@sv, "Statické údaje o cestnej sieti"@sk, "Statični podatki o cestnem omrežju"@sl, "Datos estáticos de la red de carreteras"@es, "Statické údaje o silniční síti"@cs, "Statikus úthálózati adatok"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-category> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/geometry>
-  skos:prefLabel "Geometry"@en ;
+  skos:prefLabel "Geometry"@en, "Geometrie"@de, "Геометрия"@bg, "Geometri"@da, "Geomeetria"@et, "Geometria"@fi, "Géométrie"@fr, "Γεωμετρία"@el, "Geometria"@it, "Ģeometrija"@lv, "Geometrija"@lt, "Meetkunde"@nl, "Geometria"@pl, "Geometria"@pt-pt, "Geometrie"@ro, "Geometri"@sv, "Geometria"@sk, "Geometrija"@sl, "Geometría"@es, "Geometrie"@cs, "Geometria"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/static-road-network-data> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/road-width>
-  skos:prefLabel "Road width"@en ;
+  skos:prefLabel "Road width"@en, "Breite der Straße"@de, "Широчина на пътя"@bg, "Vejens bredde"@da, "Tee laius"@et, "Tien leveys"@fi, "Largeur de la route"@fr, "Πλάτος δρόμου"@el, "Larghezza della strada"@it, "Ceļa platums"@lv, "Kelio plotis"@lt, "Breedte van de weg"@nl, "Szerokość drogi"@pl, "Largura da estrada"@pt-pt, "Lățimea drumului"@ro, "Vägbredd"@sv, "Šírka cesty"@sk, "Širina ceste"@sl, "Anchura de la carretera"@es, "Šířka silnice"@cs, "Útszélesség"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/static-road-network-data> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/number-of-lanes>
-  skos:prefLabel "Number of lanes"@en ;
+  skos:prefLabel "Number of lanes"@en, "Anzahl der Fahrspuren"@de, "Брой ленти"@bg, "Antal baner"@da, "Ridade arv"@et, "Kaistojen määrä"@fi, "Nombre de voies"@fr, "Αριθμός λωρίδων"@el, "Numero di corsie"@it, "Joslu skaits"@lv, "Eismo juostų skaičius"@lt, "Aantal rijstroken"@nl, "Liczba pasów ruchu"@pl, "Número de faixas de rodagem"@pt-pt, "Număr de benzi"@ro, "Antal körfält"@sv, "Počet jazdných pruhov"@sk, "Število voznih pasov"@sl, "Número de carriles"@es, "Počet jízdních pruhů"@cs, "Sávok száma"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/static-road-network-data> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/gradients>
-  skos:prefLabel "Gradients"@en ;
+  skos:prefLabel "Gradients"@en, "Farbverläufe"@de, "Градиенти"@bg, "Gradienter"@da, "Gradiendid"@et, "Gradientit"@fi, "Dégradés"@fr, "Διαβαθμίσεις"@el, "Gradienti"@it, "Gradienti"@lv, "Gradientai"@lt, "Kleurverlopen"@nl, "Gradienty"@pl, "Gradientes"@pt-pt, "Gradiente"@ro, "Lutningar"@sv, "Sklony"@sk, "Gradienti"@sl, "Gradientes"@es, "Gradienty"@cs, "Gradients"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/static-road-network-data> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/junctions>
-  skos:prefLabel "Junctions"@en ;
+  skos:prefLabel "Junctions"@en, "Abzweigungen"@de, "Кръстовища"@bg, "Krydsninger"@da, "Ristmikud"@et, "Liittymät"@fi, "Joints"@fr, "Διασταυρώσεις"@el, "Raccordi"@it, "Krustojumi"@lv, "Sankryžos"@lt, "Knooppunten"@nl, "Węzły"@pl, "Cruzamentos"@pt-pt, "Joncțiuni"@ro, "Korsningar"@sv, "Križovatky"@sk, "Križišča"@sl, "Cruces"@es, "Křižovatky"@cs, "Elágazások"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/static-road-network-data> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/road-classification>
-  skos:prefLabel "Road classification"@en ;
+  skos:prefLabel "Road classification"@en, "Klassifizierung der Straßen"@de, "Класификация на пътищата"@bg, "Vejklassificering"@da, "Teede klassifikatsioon"@et, "Tien luokitus"@fi, "Classification des routes"@fr, "Οδική ταξινόμηση"@el, "Classificazione stradale"@it, "Ceļu klasifikācija"@lv, "Kelių klasifikacija"@lt, "Wegclassificatie"@nl, "Klasyfikacja dróg"@pl, "Classificação das estradas"@pt-pt, "Clasificarea drumurilor"@ro, "Vägklassificering"@sv, "Klasifikácia ciest"@sk, "Razvrstitev cest"@sl, "Clasificación de las carreteras"@es, "Klasifikace silnic"@cs, "Útosztályozás"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/static-road-network-data> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/cycle-network-data>
   skos:narrower <https://w3id.org/mobilitydcat-ap/mobility-theme/network-closures-diversions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/network-detailed-attributes>, <https://w3id.org/mobilitydcat-ap/mobility-theme/network-geometry-and-lane-character> ;
-  skos:prefLabel "Cycle network data"@en ;
+  skos:prefLabel "Cycle network data"@en, "Daten zum Radverkehrsnetz"@de, "Данни за велосипедната мрежа"@bg, "Data om cykelnetværk"@da, "Jalgrattakasutusvõrgu andmed"@et, "Pyöräilyverkkoa koskevat tiedot"@fi, "Données sur le réseau cyclable"@fr, "Δεδομένα δικτύου ποδηλάτων"@el, "Dati della rete ciclabile"@it, "Velosipēdu tīkla dati"@lv, "Dviračių tinklo duomenys"@lt, "Fietsnetwerkgegevens"@nl, "Dane dotyczące sieci rowerowej"@pl, "Dados da rede ciclável"@pt-pt, "Date privind rețeaua de biciclete"@ro, "Data om cykelnätverk"@sv, "Údaje o cyklistickej sieti"@sk, "Podatki o kolesarskem omrežju"@sl, "Datos de la red ciclista"@es, "Údaje o cyklistické síti"@cs, "Kerékpárforgalmi hálózati adatok"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-category> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/network-geometry-and-lane-character>
-  skos:prefLabel "Network geometry and lane character"@en ;
+  skos:prefLabel "Network geometry and lane character"@en, "Netzgeometrie und Fahrbahnbeschaffenheit"@de, "Геометрия на мрежата и характер на лентите"@bg, "Netværksgeometri og kørebanekarakter"@da, "Võrgu geomeetria ja sõiduradade iseloom"@et, "Verkon geometria ja kaistojen luonne"@fi, "Géométrie du réseau et caractéristiques des voies"@fr, "Γεωμετρία δικτύου και χαρακτήρας λωρίδων"@el, "Geometria della rete e carattere delle corsie"@it, "Tīkla ģeometrija un joslu raksturs"@lv, "Tinklo geometrija ir eismo juostų pobūdis"@lt, "Netwerkgeometrie en rijstrookkarakter"@nl, "Geometria sieci i charakter pasa ruchu"@pl, "Geometria da rede e carácter da faixa de rodagem"@pt-pt, "Geometria rețelei și caracterul benzilor"@ro, "Nätets geometri och körfältets karaktär"@sv, "Geometria siete a charakter jazdných pruhov"@sk, "Geometrija omrežja in značaj voznih pasov"@sl, "Geometría de la red y carácter de los carriles"@es, "Geometrie sítě a charakter jízdních pruhů"@cs, "A hálózat geometriája és a sávok jellege"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/cycle-network-data>, <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/network-detailed-attributes>
-  skos:prefLabel "Network detailed attributes"@en ;
+  skos:prefLabel "Network detailed attributes"@en, "Detaillierte Netzattribute"@de, "Подробни атрибути на мрежата"@bg, "Detaljerede netværksattributter"@da, "Võrgu üksikasjalikud atribuudid"@et, "Verkon yksityiskohtaiset ominaisuudet"@fi, "Attributs détaillés du réseau"@fr, "Λεπτομερή χαρακτηριστικά του δικτύου"@el, "Attributi dettagliati della rete"@it, "Tīkla detalizēti atribūti"@lv, "Išsamūs tinklo požymiai"@lt, "Gedetailleerde netwerkattributen"@nl, "Szczegółowe atrybuty sieci"@pl, "Atributos pormenorizados da rede"@pt-pt, "Atribute detaliate ale rețelei"@ro, "Detaljerade attribut för nätverket"@sv, "Podrobné atribúty siete"@sk, "Podrobni atributi omrežja"@sl, "Atributos detallados de la red"@es, "Podrobné atributy sítě"@cs, "Hálózat részletes attribútumai"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/cycle-network-data>, <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/network-closures-diversions>
-  skos:prefLabel "Network closures/diversions"@en ;
+  skos:prefLabel "Network closures/diversions"@en, "Netzsperrungen/Umleitungen"@de, "Затваряне/отклоняване на мрежата"@bg, "Lukning af netværk/omdirigering"@da, "Võrgustiku sulgemine / ümbersuunamine"@et, "Verkon sulkemiset/johdotukset"@fi, "Fermetures/déviations de réseaux"@fr, "Κλείσιμο του δικτύου/εκτροπές"@el, "Chiusura/deviazione della rete"@it, "Tīkla slēgšana/novirzīšana"@lv, "Tinklo uždarymas ir (arba) nukreipimas"@lt, "Afsluitingen/omleidingen van het netwerk"@nl, "Zamknięcia/przekierowania sieci"@pl, "Encerramentos/desvios da rede"@pt-pt, "Închiderea/modificarea rețelei"@ro, "Avstängning/omledning av nätverk"@sv, "Uzavretie/odklonenie siete"@sk, "Zaprtje/preusmeritev omrežja"@sl, "Cierres/desvíos de la red"@es, "Uzavření/odklonění sítě"@cs, "Hálózati lezárások/elterelések"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/cycle-network-data>, <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/pedestrian-network-data>
   skos:narrower <https://w3id.org/mobilitydcat-ap/mobility-theme/pedestrian-accessibility-facilities>, <https://w3id.org/mobilitydcat-ap/mobility-theme/pedestrian-network-geometry> ;
-  skos:prefLabel "Pedestrian network data"@en ;
+  skos:prefLabel "Pedestrian network data"@en, "Daten zum Fußgängernetz"@de, "Данни за пешеходната мрежа"@bg, "Data om fodgængernetværk"@da, "Jalakäijate võrgu andmed"@et, "Jalankulkijaverkkoa koskevat tiedot"@fi, "Données sur le réseau piétonnier"@fr, "Δεδομένα δικτύου πεζών"@el, "Dati sulla rete pedonale"@it, "Gājēju tīkla dati"@lv, "Pėsčiųjų tinklo duomenys"@lt, "Gegevens voetgangersnetwerk"@nl, "Dane sieci dla pieszych"@pl, "Dados da rede pedonal"@pt-pt, "Date privind rețeaua pietonală"@ro, "Data om fotgängarnätverk"@sv, "Údaje o sieti chodcov"@sk, "Podatki o omrežju za pešce"@sl, "Datos de la red peatonal"@es, "Údaje o síti chodců"@cs, "Gyalogoshálózati adatok"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-category> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/pedestrian-network-geometry>
-  skos:prefLabel "Pedestrian network geometry"@en ;
+  skos:prefLabel "Pedestrian network geometry"@en, "Geometrie des Fußgängernetzes"@de, "Геометрия на пешеходната мрежа"@bg, "Geometri for fodgængernetværk"@da, "Jalakäijate võrgu geomeetria"@et, "Jalankulkijaverkon geometria"@fi, "Géométrie du réseau piétonnier"@fr, "Γεωμετρία δικτύου πεζών"@el, "Geometria della rete pedonale"@it, "Gājēju tīkla ģeometrija"@lv, "Pėsčiųjų tinklo geometrija"@lt, "Geometrie voetgangersnetwerk"@nl, "Geometria sieci dla pieszych"@pl, "Geometria da rede pedonal"@pt-pt, "Geometria rețelei pietonale"@ro, "Geometri för fotgängarnätverk"@sv, "Geometria siete chodcov"@sk, "Geometrija omrežja za pešce"@sl, "Geometría de la red peatonal"@es, "Geometrie sítě chodců"@cs, "A gyalogoshálózat geometriája"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/pedestrian-network-data> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/pedestrian-accessibility-facilities>
-  skos:prefLabel "Pedestrian accessibility facilities"@en ;
+  skos:prefLabel "Pedestrian accessibility facilities"@en, "Zugänglichkeit für Fußgänger"@de, "Съоръжения за пешеходна достъпност"@bg, "Tilgængelighedsfaciliteter for fodgængere"@da, "Jalakäijate ligipääsetavus"@et, "Jalankulkijoiden esteettömyysjärjestelyt"@fi, "Aménagements pour l'accessibilité des piétons"@fr, "Εγκαταστάσεις προσβασιμότητας πεζών"@el, "Strutture per l'accessibilità pedonale"@it, "Gājēju piekļuves iespējas"@lv, "Pėsčiųjų prieigos įrenginiai"@lt, "Voorzieningen voor toegankelijkheid voor voetgangers"@nl, "Udogodnienia dla pieszych"@pl, "Dispositivos de acessibilidade para peões"@pt-pt, "Facilități de acces pentru pietoni"@ro, "Anläggningar för tillgänglighet för fotgängare"@sv, "Zariadenia pre chodcov"@sk, "Objekti za dostopnost za pešce"@sl, "Instalaciones de accesibilidad peatonal"@es, "Zařízení pro pěší"@cs, "Gyalogos megközelíthetőségi létesítmények"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/pedestrian-network-data> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/static-traffic-signs-and-regulations>
   skos:narrower <https://w3id.org/mobilitydcat-ap/mobility-theme/bridge-access-conditions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/other-static-traffic-signs>, <https://w3id.org/mobilitydcat-ap/mobility-theme/other-traffic-regulations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/permanent-access-restrictions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/speed-limits>, <https://w3id.org/mobilitydcat-ap/mobility-theme/traffic-circulation-plans>, <https://w3id.org/mobilitydcat-ap/mobility-theme/tunnel-access-conditions> ;
-  skos:prefLabel "Static traffic signs and regulations"@en ;
+  skos:prefLabel "Static traffic signs and regulations"@en, "Statische Verkehrszeichen und Vorschriften"@de, "Статични пътни знаци и правила"@bg, "Statiske trafikskilte og regler"@da, "Staatilised liiklusmärgid ja eeskirjad"@et, "Staattiset liikennemerkit ja -määräykset"@fi, "Signaux et règles de circulation statiques"@fr, "Στατικές πινακίδες και κανονισμοί κυκλοφορίας"@el, "Segnaletica statica e norme di circolazione"@it, "Statiskās ceļa zīmes un noteikumi"@lv, "Statiniai eismo ženklai ir taisyklės"@lt, "Statische verkeersborden en voorschriften"@nl, "Statyczne znaki drogowe i przepisy ruchu drogowego"@pl, "Sinais e regulamentos de trânsito estáticos"@pt-pt, "Semne de circulație și reglementări statice"@ro, "Statiska trafikskyltar och föreskrifter"@sv, "Statické dopravné značky a predpisy"@sk, "Statični prometni znaki in predpisi"@sl, "Señales y normas de tráfico estáticas"@es, "Statické dopravní značky a předpisy"@cs, "Statikus közlekedési táblák és előírások"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-category> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/tunnel-access-conditions>
-  skos:prefLabel "Tunnel access conditions"@en ;
+  skos:prefLabel "Tunnel access conditions"@en, "Bedingungen für den Tunnelzugang"@de, "Условия за достъп до тунела"@bg, "Betingelser for adgang til tunneler"@da, "Tunnelile juurdepääsu tingimused"@et, "Tunneliin pääsyn edellytykset"@fi, "Conditions d'accès au tunnel"@fr, "Συνθήκες πρόσβασης σε σήραγγα"@el, "Condizioni di accesso al tunnel"@it, "Piekļuves nosacījumi tunelim"@lv, "Patekimo į tunelį sąlygos"@lt, "Voorwaarden voor toegang tot de tunnel"@nl, "Warunki dostępu do tunelu"@pl, "Condições de acesso ao túnel"@pt-pt, "Condiții de acces la tunel"@ro, "Villkor för tillträde till tunnlar"@sv, "Podmienky prístupu do tunela"@sk, "Pogoji za dostop do predora"@sl, "Condiciones de acceso al túnel"@es, "Podmínky přístupu do tunelu"@cs, "Az alagútba való bejutás feltételei"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/static-traffic-signs-and-regulations> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/bridge-access-conditions>
-  skos:prefLabel "Bridge access conditions"@en ;
+  skos:prefLabel "Bridge access conditions"@en, "Bedingungen für den Zugang zur Brücke"@de, "Условия за достъп до моста"@bg, "Betingelser for adgang til broen"@da, "Silla juurdepääsutingimused"@et, "Siltojen pääsyolosuhteet"@fi, "Conditions d'accès au pont"@fr, "Συνθήκες πρόσβασης στη γέφυρα"@el, "Condizioni di accesso al ponte"@it, "Piekļuves nosacījumi tiltam"@lv, "Prieigos prie tilto sąlygos"@lt, "Condities brugtoegang"@nl, "Warunki dostępu do mostu"@pl, "Condições de acesso à ponte"@pt-pt, "Condiții de acces la pod"@ro, "Villkor för brotillträde"@sv, "Podmienky prístupu na most"@sk, "Pogoji za dostop do mostu"@sl, "Condiciones de acceso al puente"@es, "Podmínky přístupu na most"@cs, "A hídhoz való hozzáférés feltételei"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/static-traffic-signs-and-regulations> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/speed-limits>
-  skos:prefLabel "Speed limits"@en ;
+  skos:prefLabel "Speed limits"@en, "Geschwindigkeitsbegrenzungen"@de, "Ограничения на скоростта"@bg, "Hastighedsgrænser"@da, "Kiiruspiirangud"@et, "Nopeusrajoitukset"@fi, "Limites de vitesse"@fr, "Όρια ταχύτητας"@el, "Limiti di velocità"@it, "Ātruma ierobežojumi"@lv, "Greičio apribojimai"@lt, "Snelheidslimieten"@nl, "Ograniczenia prędkości"@pl, "Limites de velocidade"@pt-pt, "Limite de viteză"@ro, "Hastighetsbegränsningar"@sv, "Rýchlostné obmedzenia"@sk, "Omejitve hitrosti"@sl, "Límites de velocidad"@es, "Rychlostní limity"@cs, "Sebességkorlátozások"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/static-traffic-signs-and-regulations> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/other-static-traffic-signs>
-  skos:prefLabel "Other static traffic signs"@en ;
+  skos:prefLabel "Other static traffic signs"@en, "Andere statische Verkehrszeichen"@de, "Други статични пътни знаци"@bg, "Andre statiske trafikskilte"@da, "Muud staatilised liiklusmärgid"@et, "Muut staattiset liikennemerkit"@fi, "Autres panneaux de signalisation statiques"@fr, "Άλλες στατικές πινακίδες κυκλοφορίας"@el, "Altri segnali stradali statici"@it, "Citas statiskās ceļa zīmes"@lv, "Kiti statiniai kelio ženklai"@lt, "Andere statische verkeersborden"@nl, "Inne statyczne znaki drogowe"@pl, "Outros sinais de trânsito estáticos"@pt-pt, "Alte semne de circulație statice"@ro, "Andra statiska trafikmärken"@sv, "Ostatné statické dopravné značky"@sk, "Drugi statični prometni znaki"@sl, "Otras señales de tráfico estáticas"@es, "Ostatní statické dopravní značky"@cs, "Egyéb statikus közlekedési táblák"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/static-traffic-signs-and-regulations> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/permanent-access-restrictions>
-  skos:prefLabel "Permanent access restrictions"@en ;
+  skos:prefLabel "Permanent access restrictions"@en, "Dauerhafte Zugangsbeschränkungen"@de, "Постоянни ограничения на достъпа"@bg, "Permanente adgangsbegrænsninger"@da, "Alalised juurdepääsupiirangud"@et, "Pysyvät pääsyrajoitukset"@fi, "Restrictions d'accès permanentes"@fr, "Μόνιμοι περιορισμοί πρόσβασης"@el, "Limitazioni di accesso permanenti"@it, "Pastāvīgi piekļuves ierobežojumi"@lv, "Nuolatiniai prieigos apribojimai"@lt, "Permanente toegangsbeperkingen"@nl, "Stałe ograniczenia dostępu"@pl, "Restrições de acesso permanentes"@pt-pt, "Restricții permanente de acces"@ro, "Permanenta tillträdesbegränsningar"@sv, "Trvalé obmedzenia prístupu"@sk, "Trajne omejitve dostopa"@sl, "Restricciones de acceso permanentes"@es, "Trvalé omezení přístupu"@cs, "Állandó hozzáférési korlátozások"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/static-traffic-signs-and-regulations> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/other-traffic-regulations>
-  skos:prefLabel "Other traffic regulations"@en ;
+  skos:prefLabel "Other traffic regulations"@en, "Sonstige Verkehrsvorschriften"@de, "Други правила за движение"@bg, "Andre trafikregler"@da, "Muud liikluseeskirjad"@et, "Muut liikennesäännöt"@fi, "Autres règles de circulation"@fr, "Άλλοι κυκλοφοριακοί κανονισμοί"@el, "Altre norme di circolazione"@it, "Citi satiksmes noteikumi"@lv, "Kitos eismo taisyklės"@lt, "Andere verkeersregels"@nl, "Inne przepisy ruchu drogowego"@pl, "Outras regras de trânsito"@pt-pt, "Alte reglementări privind traficul"@ro, "Övriga trafikregler"@sv, "Ostatné dopravné predpisy"@sk, "Drugi prometni predpisi"@sl, "Otras normas de tráfico"@es, "Další dopravní předpisy"@cs, "Egyéb közlekedési szabályok"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/static-traffic-signs-and-regulations> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/traffic-circulation-plans>
-  skos:prefLabel "Traffic circulation plans"@en ;
+  skos:prefLabel "Traffic circulation plans"@en, "Verkehrswegepläne"@de, "Планове за движението по пътищата"@bg, "Planer for trafikafvikling"@da, "Liikluskeskkonna plaanid"@et, "Liikennöintisuunnitelmat"@fi, "Plans de circulation"@fr, "Σχέδια κυκλοφορίας"@el, "Piani di circolazione del traffico"@it, "Satiksmes kustības plāni"@lv, "Eismo judėjimo planai"@lt, "Verkeerscirculatieplannen"@nl, "Plany cyrkulacji ruchu"@pl, "Planos de circulação de tráfego"@pt-pt, "Planuri de circulație a traficului"@ro, "Trafikcirkulationsplaner"@sv, "Plány dopravnej obslužnosti"@sk, "Načrti prometnega obtoka"@sl, "Planes de circulación del tráfico"@es, "Plány dopravního provozu"@cs, "Forgalmi forgalmi tervek"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/static-traffic-signs-and-regulations> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/toll-information>
   skos:narrower <https://w3id.org/mobilitydcat-ap/mobility-theme/applicable-road-user-charges-and-payment-methods>, <https://w3id.org/mobilitydcat-ap/mobility-theme/identification-of-tolled-roads>, <https://w3id.org/mobilitydcat-ap/mobility-theme/location-of-tolling-stations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/payment-methods-for-tolls> ;
-  skos:prefLabel "Toll information"@en ;
+  skos:prefLabel "Toll information"@en, "Informationen zur Maut"@de, "Информация за пътните такси"@bg, "Oplysninger om afgifter"@da, "Teemaksu teave"@et, "Tietoja tietulleista"@fi, "Informations sur les péages"@fr, "Πληροφορίες διοδίων"@el, "Informazioni sul pedaggio"@it, "Ceļu nodevas informācija"@lv, "Rinkliavos informacija"@lt, "Informatie tol"@nl, "Informacje o opłatach drogowych"@pl, "Informações sobre portagens"@pt-pt, "Informații privind taxele de drum"@ro, "Information om vägtullar"@sv, "Informácie o mýte"@sk, "Informacije o cestnini"@sl, "Información sobre peajes"@es, "Informace o mýtném"@cs, "Útdíj-információk"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-category> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/location-of-tolling-stations>
-  skos:prefLabel "Location of tolling stations"@en ;
+  skos:prefLabel "Location of tolling stations"@en, "Standort der Mautstellen"@de, "Местоположение на пунктовете за събиране на пътни такси"@bg, "Placering af betalingsstationer"@da, "Teemaksu kogumise jaamade asukoht"@et, "Tietulliasemien sijainti"@fi, "Emplacement des stations de péage"@fr, "Τοποθεσία των σταθμών διοδίων"@el, "Ubicazione delle stazioni di pedaggio"@it, "Ceļu nodevu iekasēšanas staciju atrašanās vieta"@lv, "Rinkliavos rinkimo punktų vieta"@lt, "Locatie van tolstations"@nl, "Lokalizacja punktów poboru opłat"@pl, "Localização das estações de portagem"@pt-pt, "Amplasarea stațiilor de taxare"@ro, "Placering av vägtullstationer"@sv, "Umiestnenie mýtnych staníc"@sk, "Lokacija cestninskih postaj"@sl, "Ubicación de las estaciones de peaje"@es, "Umístění mýtných stanic"@cs, "Az útdíjszedő állomások elhelyezkedése"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/toll-information> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/identification-of-tolled-roads>
-  skos:prefLabel "Identification of tolled roads"@en ;
+  skos:prefLabel "Identification of tolled roads"@en, "Identifizierung von mautpflichtigen Straßen"@de, "Идентифициране на платените пътища"@bg, "Identifikation af betalingsveje"@da, "Teemaksuga maksustatud teede kindlaksmääramine"@et, "Maksullisten teiden tunnistaminen"@fi, "Identification des routes à péage"@fr, "Προσδιορισμός των δρόμων με διόδια"@el, "Identificazione delle strade a pedaggio"@it, "Ceļu, par kuriem tiek iekasēta nodeva, identifikācija"@lv, "Rinkliava apmokestintų kelių nustatymas"@lt, "Identificatie van tolwegen"@nl, "Identyfikacja dróg płatnych"@pl, "Identificação das estradas com portagem"@pt-pt, "Identificarea drumurilor cu taxă"@ro, "Identifiering av avgiftsbelagda vägar"@sv, "Identifikácia spoplatnených ciest"@sk, "Opredelitev cestninskih cest"@sl, "Identificación de las carreteras de peaje"@es, "Identifikace zpoplatněných silnic"@cs, "A díjköteles utak azonosítása"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/toll-information> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/applicable-road-user-charges-and-payment-methods>
-  skos:prefLabel "Applicable road user charges and payment methods"@en ;
+  skos:prefLabel "Applicable road user charges and payment methods"@en, "Geltende Straßenbenutzungsgebühren und Zahlungsmodalitäten"@de, "Приложими такси за ползване на пътищата и начини на плащане"@bg, "Gældende vejbenyttelsesafgifter og betalingsmetoder"@da, "Kohaldatavad maanteekasutustasu ja makseviisid"@et, "Sovellettavat tienkäyttömaksut ja maksutavat"@fi, "Droits d'usage de la route applicables et méthodes de paiement"@fr, "Εφαρμοστέα τέλη κυκλοφορίας και μέθοδοι πληρωμής"@el, "Costi e metodi di pagamento applicabili agli utenti della strada"@it, "Piemērojamie ceļu lietošanas maksājumi un maksāšanas metodes"@lv, "Taikomi kelių naudotojo mokesčiai ir mokėjimo būdai"@lt, "Toepasselijke heffingen voor weggebruikers en betalingswijzen"@nl, "Obowiązujące opłaty za korzystanie z dróg i metody płatności"@pl, "Taxas de utilização das estradas e métodos de pagamento aplicáveis"@pt-pt, "Taxe de utilizare a drumurilor aplicabile și metode de plată"@ro, "Tillämpliga vägavgifter och betalningsmetoder"@sv, "Uplatniteľné poplatky za používanie ciest a spôsoby platby"@sk, "Veljavne pristojbine za uporabo cest in načini plačila"@sl, "Tasas aplicables a los usuarios de la carretera y formas de pago"@es, "Příslušné poplatky za užívání silnic a způsoby platby"@cs, "Alkalmazandó úthasználati díjak és fizetési módok"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/toll-information> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/payment-methods-for-tolls>
-  skos:prefLabel "Payment methods for tolls"@en ;
+  skos:prefLabel "Payment methods for tolls"@en, "Zahlungsmöglichkeiten für Mautgebühren"@de, "Начини на плащане на пътни такси"@bg, "Betalingsmetoder for vejafgifter"@da, "Teemaksu maksmise viisid"@et, "Tietullien maksutavat"@fi, "Modes de paiement des péages"@fr, "Μέθοδοι πληρωμής διοδίων"@el, "Metodi di pagamento dei pedaggi"@it, "Ceļu nodevu maksāšanas metodes"@lv, "Mokėjimo už kelių mokesčius būdai"@lt, "Betaalmethoden voor tol"@nl, "Metody płatności za opłaty drogowe"@pl, "Formas de pagamento das portagens"@pt-pt, "Metode de plată pentru taxele de drum"@ro, "Betalningsmetoder för vägtullar"@sv, "Spôsoby platby za mýto"@sk, "Načini plačila cestnin"@sl, "Formas de pago de los peajes"@es, "Způsoby platby mýtného"@cs, "Az útdíjfizetés módjai"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/toll-information> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/parking-service-and-rest-area-information>
   skos:narrower <https://w3id.org/mobilitydcat-ap/mobility-theme/bike-parking-locations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/car-parking-availability>, <https://w3id.org/mobilitydcat-ap/mobility-theme/car-parking-locations-and-conditions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/park-and-ride-stops>, <https://w3id.org/mobilitydcat-ap/mobility-theme/service-and-rest-area-availability>, <https://w3id.org/mobilitydcat-ap/mobility-theme/service-and-rest-area-locations-and-conditions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/truck-parking-availability>, <https://w3id.org/mobilitydcat-ap/mobility-theme/truck-parking-locations-and-conditions> ;
-  skos:prefLabel "Parking, service and rest area information"@en ;
+  skos:prefLabel "Parking, service and rest area information"@en, "Informationen zu Parkplätzen, Dienstleistungen und Raststätten"@de, "Информация за паркинг, сервиз и зона за почивка"@bg, "Information om parkering, service og rastepladser"@da, "Teave parkimise, teeninduse ja puhkealade kohta"@et, "Pysäköintiä, huoltopalveluja ja levähdysalueita koskevat tiedot"@fi, "Informations sur le stationnement, les services et les aires de repos"@fr, "Πληροφορίες σχετικά με τους χώρους στάθμευσης, εξυπηρέτησης και ανάπαυσης"@el, "Informazioni su parcheggi, servizi e aree di sosta"@it, "Informācija par autostāvvietām, servisa un atpūtas vietām"@lv, "Informacija apie automobilių stovėjimo, aptarnavimo ir poilsio aikšteles"@lt, "Parkeer-, service- en rustplaatsinformatie"@nl, "Informacje o parkingach, usługach i miejscach odpoczynku"@pl, "Informações sobre estacionamento, serviços e áreas de descanso"@pt-pt, "Informații despre parcare, servicii și zone de odihnă"@ro, "Information om parkering, service och rastplatser"@sv, "Informácie o parkovisku, servise a odpočívadlách"@sk, "Informacije o parkiriščih, servisih in počivališčih"@sl, "Información sobre aparcamientos, servicios y áreas de descanso"@es, "Informace o parkování, servisu a odpočívadlech"@cs, "Parkolási, szerviz- és pihenőhelyi információk"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-category> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/car-parking-locations-and-conditions>
-  skos:prefLabel "Car parking locations and conditions"@en ;
+  skos:prefLabel "Car parking locations and conditions"@en, "Standorte und Bedingungen von Parkplätzen"@de, "Места и условия за паркиране на автомобили"@bg, "Parkeringspladser og betingelser"@da, "Parkimiskohad ja -tingimused"@et, "Pysäköintipaikat ja -ehdot"@fi, "Emplacements et conditions des parkings"@fr, "Θέσεις και όροι στάθμευσης αυτοκινήτων"@el, "Ubicazione e condizioni del parcheggio"@it, "Autostāvvietu atrašanās vietas un nosacījumi"@lv, "Automobilių stovėjimo vietos ir sąlygos"@lt, "Parkeerlocaties en -voorwaarden"@nl, "Lokalizacje i warunki parkowania samochodów"@pl, "Locais e condições de estacionamento"@pt-pt, "Locuri și condiții de parcare"@ro, "Parkeringsplatser och villkor"@sv, "Miesta a podmienky parkovania"@sk, "Lokacije in pogoji parkiranja avtomobilov"@sl, "Ubicación y condiciones de aparcamiento"@es, "Místa a podmínky parkování"@cs, "Parkolási helyek és feltételek"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/parking-service-and-rest-area-information> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/car-parking-availability>
-  skos:prefLabel "Car parking availability"@en ;
+  skos:prefLabel "Car parking availability"@en, "Verfügbarkeit von Parkplätzen"@de, "Наличие на паркинг за автомобили"@bg, "Tilgængelighed af bilparkering"@da, "Auto parkimise kättesaadavus"@et, "Pysäköintipaikkojen saatavuus"@fi, "Disponibilité des parkings"@fr, "Διαθεσιμότητα χώρου στάθμευσης αυτοκινήτων"@el, "Disponibilità di parcheggio"@it, "Autostāvvietu pieejamība"@lv, "Automobilių stovėjimo aikštelės prieinamumas"@lt, "Parkeergelegenheid"@nl, "Dostępność parkingów"@pl, "Disponibilidade de estacionamento"@pt-pt, "Disponibilitatea parcării"@ro, "Tillgänglighet för bilparkering"@sv, "Dostupnosť parkovania"@sk, "Razpoložljivost parkirišč"@sl, "Disponibilidad de aparcamiento"@es, "Dostupnost parkoviště"@cs, "Parkolási lehetőség"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/parking-service-and-rest-area-information> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/service-and-rest-area-locations-and-conditions>
-  skos:prefLabel "Service and rest area locations and conditions"@en ;
+  skos:prefLabel "Service and rest area locations and conditions"@en, "Standorte und Bedingungen von Raststätten und Rastplätzen"@de, "Местоположение и условия на зоните за обслужване и почивка"@bg, "Placering og betingelser for service- og rastepladser"@da, "Teenindus- ja puhkealade asukohad ja tingimused"@et, "Huolto- ja levähdyspaikkojen sijainti ja olosuhteet"@fi, "Emplacement et conditions des aires de service et de repos"@fr, "Θέσεις και συνθήκες χώρων εξυπηρέτησης και ανάπαυσης"@el, "Ubicazione e condizioni delle aree di servizio e di sosta"@it, "Pakalpojumu un atpūtas vietu atrašanās vietas un nosacījumi"@lv, "Aptarnavimo ir poilsio aikštelių vietos ir sąlygos"@lt, "Locaties en voorwaarden van service- en rustplaatsen"@nl, "Lokalizacje i warunki miejsc obsługi i odpoczynku"@pl, "Localização e condições das áreas de serviço e de repouso"@pt-pt, "Locațiile și condițiile zonelor de servicii și de odihnă"@ro, "Service- och rastplatsernas läge och förhållanden"@sv, "Umiestnenie a podmienky servisných a odpočívacích zón"@sk, "Lokacije in pogoji postajališč in počivališč"@sl, "Localización y condiciones de las áreas de servicio y descanso"@es, "Umístění a podmínky na odpočívadlech a servisních místech"@cs, "Szervizek és pihenőhelyek helye és feltételei"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/parking-service-and-rest-area-information> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/service-and-rest-area-availability>
-  skos:prefLabel "Service and rest area availability"@en ;
+  skos:prefLabel "Service and rest area availability"@en, "Verfügbarkeit von Service- und Rastplätzen"@de, "Наличие на сервиз и зона за почивка"@bg, "Tilgængelighed af service og rastepladser"@da, "Teenuse ja puhkeala kättesaadavus"@et, "Palveluiden ja levähdysalueiden saatavuus"@fi, "Disponibilité des aires de service et de repos"@fr, "Διαθεσιμότητα υπηρεσιών και χώρων ανάπαυσης"@el, "Disponibilità di servizi e aree di sosta"@it, "Pakalpojumu un atpūtas vietu pieejamība"@lv, "Paslaugų ir poilsio zonų prieinamumas"@lt, "Beschikbaarheid van service- en rustruimten"@nl, "Dostępność usług i miejsc odpoczynku"@pl, "Disponibilidade de áreas de serviço e de descanso"@pt-pt, "Disponibilitatea serviciilor și a zonelor de odihnă"@ro, "Tillgänglighet till service och rastplatser"@sv, "Dostupnosť služieb a odpočívadiel"@sk, "razpoložljivost storitev in počivališč"@sl, "Disponibilidad de servicios y áreas de descanso"@es, "Dostupnost služeb a odpočívadel"@cs, "Szerviz és pihenőhelyek elérhetősége"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/parking-service-and-rest-area-information> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/truck-parking-locations-and-conditions>
-  skos:prefLabel "Truck parking locations and conditions"@en ;
+  skos:prefLabel "Truck parking locations and conditions"@en, "Standorte und Bedingungen für Lkw-Parkplätze"@de, "Места и условия за паркиране на камиони"@bg, "Placering og betingelser for lastbilparkering"@da, "Veoautode parkimiskohad ja -tingimused"@et, "Kuorma-autojen pysäköintipaikat ja -olosuhteet"@fi, "Emplacements et conditions de stationnement des camions"@fr, "Θέσεις και συνθήκες στάθμευσης φορτηγών"@el, "Ubicazione e condizioni dei parcheggi per autocarri"@it, "Kravas automašīnu stāvvietu atrašanās vietas un nosacījumi"@lv, "Sunkvežimių stovėjimo vietos ir sąlygos"@lt, "Locaties en voorwaarden voor vrachtwagenparkeren"@nl, "Lokalizacje i warunki parkowania ciężarówek"@pl, "Localização e condições do estacionamento de camiões"@pt-pt, "Locurile și condițiile de parcare a camioanelor"@ro, "Platser och förhållanden för lastbilsparkering"@sv, "Miesta a podmienky parkovania nákladných vozidiel"@sk, "Lokacije in pogoji parkiranja tovornjakov"@sl, "Ubicación y condiciones del aparcamiento de camiones"@es, "Místa a podmínky parkování nákladních vozidel"@cs, "Tehergépjárművek parkolóhelyei és feltételei"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/parking-service-and-rest-area-information> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/truck-parking-availability>
-  skos:prefLabel "Truck parking availability"@en ;
+  skos:prefLabel "Truck parking availability"@en, "Verfügbarkeit von Lkw-Parkplätzen"@de, "Наличие на паркинг за камиони"@bg, "Tilgængelighed af lastbilparkering"@da, "Veoautode parkimise kättesaadavus"@et, "Kuorma-autojen pysäköintipaikkojen saatavuus"@fi, "Disponibilité de parkings pour camions"@fr, "Διαθεσιμότητα χώρων στάθμευσης φορτηγών"@el, "Disponibilità di parcheggio per camion"@it, "Kravas automašīnu stāvvietu pieejamība"@lv, "Sunkvežimių stovėjimo aikštelės prieinamumas"@lt, "Parkeergelegenheid voor vrachtwagens"@nl, "Dostępność parkingów dla ciężarówek"@pl, "Disponibilidade de estacionamento para camiões"@pt-pt, "Disponibilitatea parcării pentru camioane"@ro, "Tillgänglighet för lastbilsparkering"@sv, "Dostupnosť parkovacích miest pre nákladné vozidlá"@sk, "razpoložljivost parkirišč za tovornjake"@sl, "Disponibilidad de aparcamiento para camiones"@es, "Dostupnost parkoviště pro nákladní vozidla"@cs, "Tehergépkocsi parkoló rendelkezésre állása"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/parking-service-and-rest-area-information> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/park-and-ride-stops>
-  skos:prefLabel "Park and Ride stops"@en ;
+  skos:prefLabel "Park and Ride stops"@en, "Park-and-Ride-Haltestellen"@de, "Спирки Паркирай и пътувай"@bg, "Parkér og rejs-stoppesteder"@da, "Park ja Ride peatused"@et, "Park and Ride -pysäkit"@fi, "Arrêts des parcs relais"@fr, "Στάσεις Park and Ride"@el, "Fermate del Park and Ride"@it, "Park and Ride pieturas"@lv, "Park and Ride stotelės"@lt, "Park and Ride haltes"@nl, "Przystanki Parkuj i Jedź"@pl, "Paragens Park and Ride"@pt-pt, "Stații Park and Ride"@ro, "Hållplatser för infartsparkering"@sv, "Zastávky Park and Ride"@sk, "Postajališča parkiraj in se pelji"@sl, "Paradas de Park and Ride"@es, "Zastávky Park and Ride"@cs, "Park and Ride megállók"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/parking-service-and-rest-area-information> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/bike-parking-locations>
-  skos:prefLabel "Bike-parking locations"@en ;
+  skos:prefLabel "Bike-parking locations"@en, "Fahrrad-Parkplätze"@de, "Места за паркиране на велосипеди"@bg, "Cykelparkeringssteder"@da, "Jalgrattaparklate asukohad"@et, "Pyöräpysäköintipaikat"@fi, "Emplacements de stationnement pour vélos"@fr, "Θέσεις στάθμευσης ποδηλάτων"@el, "Parcheggi per biciclette"@it, "Velosipēdu novietošanas vietas"@lv, "Dviračių stovėjimo vietos"@lt, "Locaties voor fietsparkeren"@nl, "Lokalizacje parkingów dla rowerów"@pl, "Locais de estacionamento para bicicletas"@pt-pt, "Locuri de parcare pentru biciclete"@ro, "Parkeringsplatser för cyklar"@sv, "Miesta na parkovanie bicyklov"@sk, "Lokacije za parkiranje koles"@sl, "Aparcamientos para bicicletas"@es, "Místa pro parkování kol"@cs, "Kerékpár-parkolóhelyek"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/parking-service-and-rest-area-information> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/filling-and-charging-stations>
   skos:narrower <https://w3id.org/mobilitydcat-ap/mobility-theme/availability-of-charging-points-for-electric-vehicles>, <https://w3id.org/mobilitydcat-ap/mobility-theme/availability-of-filling-stations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/location-and-conditions-of-charging-points>, <https://w3id.org/mobilitydcat-ap/mobility-theme/location-and-conditions-of-filling-stations> ;
-  skos:prefLabel "Filling and charging stations"@en ;
+  skos:prefLabel "Filling and charging stations"@en, "Tankstellen und Ladestationen"@de, "Станции за зареждане и зареждане"@bg, "Tank- og ladestationer"@da, "Täite- ja laadimisjaamad"@et, "Täyttö- ja latausasemat"@fi, "Stations de remplissage et de recharge"@fr, "Σταθμοί πλήρωσης και φόρτισης"@el, "Stazioni di rifornimento e ricarica"@it, "Uzpildes un uzlādes stacijas"@lv, "Degalinės ir įkrovimo stotelės"@lt, "Vullen en opladen"@nl, "Stacje tankowania i ładowania"@pl, "Estações de enchimento e de carregamento"@pt-pt, "Stații de umplere și încărcare"@ro, "Tank- och laddningsstationer"@sv, "Čerpacie a nabíjacie stanice"@sk, "Polnilne in polnilne postaje"@sl, "Estaciones de servicio y recarga"@es, "Plnicí a nabíjecí stanice"@cs, "Töltő- és töltőállomások"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-category> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/location-and-conditions-of-charging-points>
-  skos:prefLabel "Location and conditions of charging points"@en ;
+  skos:prefLabel "Location and conditions of charging points"@en, "Standort und Bedingungen von Ladepunkten"@de, "Местоположение и условия на точките за зареждане"@bg, "Placering og betingelser for ladestandere"@da, "Laadimispunktide asukoht ja tingimused"@et, "Latauspisteiden sijainti ja ehdot"@fi, "Emplacement et conditions des bornes de recharge"@fr, "Τοποθεσία και όροι των σημείων φόρτισης"@el, "Ubicazione e condizioni dei punti di ricarica"@it, "Uzlādes punktu atrašanās vieta un nosacījumi"@lv, "Įkrovimo taškų vieta ir sąlygos"@lt, "Locatie en voorwaarden van oplaadpunten"@nl, "Lokalizacja i warunki punktów ładowania"@pl, "Localização e condições dos pontos de carregamento"@pt-pt, "Amplasarea și condițiile punctelor de încărcare"@ro, "Placering av och villkor för laddningsstationer"@sv, "Umiestnenie a podmienky nabíjacích miest"@sk, "Lokacija in pogoji polnilnih mest"@sl, "Ubicación y condiciones de los puntos de recarga"@es, "Umístění a podmínky dobíjecích míst"@cs, "A töltőpontok helye és feltételei"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/filling-and-charging-stations> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/location-and-conditions-of-filling-stations>
-  skos:prefLabel "Location and conditions of filling stations"@en ;
+  skos:prefLabel "Location and conditions of filling stations"@en, "Standort und Bedingungen von Tankstellen"@de, "Местоположение и условия на бензиностанциите"@bg, "Placering og betingelser for tankstationer"@da, "Tanklate asukoht ja tingimused"@et, "Huoltoasemien sijainti ja olosuhteet"@fi, "Emplacement et conditions des stations-service"@fr, "Τοποθεσία και όροι των πρατηρίων καυσίμων"@el, "Ubicazione e condizioni delle stazioni di rifornimento"@it, "Degvielas uzpildes staciju atrašanās vieta un nosacījumi"@lv, "Degalinių vieta ir sąlygos"@lt, "Locatie en voorwaarden van tankstations"@nl, "Lokalizacja i warunki stacji paliw"@pl, "Localização e condições das estações de serviço"@pt-pt, "Amplasarea și condițiile stațiilor de alimentare"@ro, "Placering av och villkor för bensinstationer"@sv, "Umiestnenie a podmienky čerpacích staníc"@sk, "Lokacija in pogoji bencinskih črpalk"@sl, "Ubicación y condiciones de las estaciones de servicio"@es, "Umístění a podmínky čerpacích stanic"@cs, "A töltőállomások elhelyezkedése és feltételei"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/filling-and-charging-stations> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/availability-of-charging-points-for-electric-vehicles>
-  skos:prefLabel "Availability of charging points for electric vehicles"@en ;
+  skos:prefLabel "Availability of charging points for electric vehicles"@en, "Verfügbarkeit von Ladestationen für Elektrofahrzeuge"@de, "Наличие на точки за зареждане на електрически превозни средства"@bg, "Tilgængelighed af ladestandere til elbiler"@da, "Elektrisõidukite laadimispunktide kättesaadavus"@et, "Sähköajoneuvojen latauspisteiden saatavuus"@fi, "Disponibilité de bornes de recharge pour les véhicules électriques"@fr, "Διαθεσιμότητα σημείων φόρτισης για ηλεκτρικά οχήματα"@el, "Disponibilità di punti di ricarica per veicoli elettrici"@it, "Elektrisko transportlīdzekļu uzlādes punktu pieejamība"@lv, "Elektromobilių įkrovimo taškų prieinamumas"@lt, "Beschikbaarheid van oplaadpunten voor elektrische voertuigen"@nl, "Dostępność punktów ładowania pojazdów elektrycznych"@pl, "Disponibilidade de pontos de carregamento para veículos eléctricos"@pt-pt, "Disponibilitatea punctelor de încărcare pentru vehiculele electrice"@ro, "Tillgång till laddningsstationer för elfordon"@sv, "Dostupnosť nabíjacích miest pre elektrické vozidlá"@sk, "Razpoložljivost polnilnih mest za električna vozila"@sl, "Disponibilidad de puntos de recarga para vehículos eléctricos"@es, "Dostupnost nabíjecích míst pro elektromobily"@cs, "Elektromos járművek töltőpontjainak elérhetősége"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/filling-and-charging-stations> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/availability-of-filling-stations>
-  skos:prefLabel "Availability of filling stations"@en ;
+  skos:prefLabel "Availability of filling stations"@en, "Verfügbarkeit von Tankstellen"@de, "Наличие на бензиностанции"@bg, "Tilgængelighed af tankstationer"@da, "Tanklate kättesaadavus"@et, "Huoltoasemien saatavuus"@fi, "Disponibilité des stations-service"@fr, "Διαθεσιμότητα πρατηρίων καυσίμων"@el, "Disponibilità di stazioni di rifornimento"@it, "Degvielas uzpildes staciju pieejamība"@lv, "Degalinių prieinamumas"@lt, "Beschikbaarheid van tankstations"@nl, "Dostępność stacji paliw"@pl, "Disponibilidade de estações de serviço"@pt-pt, "Disponibilitatea stațiilor de alimentare"@ro, "Tillgång till bensinstationer"@sv, "Dostupnosť čerpacích staníc"@sk, "Razpoložljivost bencinskih servisov"@sl, "Disponibilidad de gasolineras"@es, "Dostupnost čerpacích stanic"@cs, "A töltőállomások elérhetősége"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/filling-and-charging-stations> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/freight-and-logistics>
   skos:narrower <https://w3id.org/mobilitydcat-ap/mobility-theme/availability-of-delivery-areas>, <https://w3id.org/mobilitydcat-ap/mobility-theme/freight-delivery-regulations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/location-of-delivery-areas> ;
-  skos:prefLabel "Freight and logistics"@en ;
+  skos:prefLabel "Freight and logistics"@en, "Güterverkehr und Logistik"@de, "Товарни превози и логистика"@bg, "Fragt og logistik"@da, "Kaubavedu ja logistika"@et, "Rahti ja logistiikka"@fi, "Fret et logistique"@fr, "Εμπορευματικές μεταφορές και εφοδιαστική"@el, "Trasporto e logistica"@it, "Kravu pārvadājumi un loģistika"@lv, "Krovinių vežimas ir logistika"@lt, "Vracht en logistiek"@nl, "Fracht i logistyka"@pl, "Transporte de mercadorias e logística"@pt-pt, "Mărfuri și logistică"@ro, "Godstransporter och logistik"@sv, "Nákladná doprava a logistika"@sk, "Tovorni promet in logistika"@sl, "Transporte y logística"@es, "Nákladní doprava a logistika"@cs, "Teherfuvarozás és logisztika"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-category> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/freight-delivery-regulations>
-  skos:prefLabel "Freight delivery regulations"@en ;
+  skos:prefLabel "Freight delivery regulations"@en, "Vorschriften für die Lieferung von Gütern"@de, "Правила за доставка на товари"@bg, "Regler for levering af gods"@da, "Kaubaveo eeskirjad"@et, "Rahtitoimituksia koskevat määräykset"@fi, "Réglementation de la livraison de fret"@fr, "Κανονισμοί παράδοσης εμπορευμάτων"@el, "Regolamenti per la consegna delle merci"@it, "Kravu piegādes noteikumi"@lv, "Krovinių pristatymo taisyklės"@lt, "Vrachtbezorgingsvoorschriften"@nl, "Przepisy dotyczące dostawy towarów"@pl, "Regulamentos de entrega de mercadorias"@pt-pt, "Reglementări privind livrarea de mărfuri"@ro, "Regler för fraktleveranser"@sv, "Predpisy o dodávkach tovaru"@sk, "Predpisi o dostavi tovora"@sl, "Normativa sobre el transporte de mercancías"@es, "Předpisy pro doručování nákladu"@cs, "Teherszállítási szabályok"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/freight-and-logistics> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/location-of-delivery-areas>
-  skos:prefLabel "Location of delivery areas"@en ;
+  skos:prefLabel "Location of delivery areas"@en, "Lage der Liefergebiete"@de, "Местоположение на зоните за доставка"@bg, "Placering af leveringsområder"@da, "Tarnepiirkondade asukoht"@et, "Toimitusalueiden sijainti"@fi, "Localisation des zones de livraison"@fr, "Τοποθεσία των περιοχών παράδοσης"@el, "Posizione delle aree di consegna"@it, "Piegādes zonu atrašanās vieta"@lv, "Pristatymo vietų vieta"@lt, "Locatie van leveringsgebieden"@nl, "Lokalizacja obszarów dostaw"@pl, "Localização das zonas de entrega"@pt-pt, "Amplasarea zonelor de livrare"@ro, "Placering av leveransområden"@sv, "Umiestnenie oblastí dodávok"@sk, "Lokacija območij dostave"@sl, "Localización de las zonas de entrega"@es, "Umístění oblastí dodávek"@cs, "A szállítási területek elhelyezkedése"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/freight-and-logistics> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/availability-of-delivery-areas>
-  skos:prefLabel "Availability of delivery areas"@en ;
+  skos:prefLabel "Availability of delivery areas"@en, "Verfügbarkeit von Liefergebieten"@de, "Наличие на зони за доставка"@bg, "Tilgængelighed af leveringsområder"@da, "Tarnepiirkondade kättesaadavus"@et, "Toimitusalueiden saatavuus"@fi, "Disponibilité des zones de livraison"@fr, "Διαθεσιμότητα περιοχών παράδοσης"@el, "Disponibilità di aree di consegna"@it, "Piegādes zonu pieejamība"@lv, "Galimybė naudotis pristatymo vietomis"@lt, "Beschikbaarheid van leveringsgebieden"@nl, "Dostępność obszarów dostawy"@pl, "Disponibilidade de zonas de entrega"@pt-pt, "Disponibilitatea zonelor de livrare"@ro, "Tillgänglighet till leveransområden"@sv, "Dostupnosť oblastí doručenia"@sk, "Razpoložljivost območij dostave"@sl, "Disponibilidad de zonas de entrega"@es, "Dostupnost oblastí pro doručování"@cs, "A szállítási területek elérhetősége"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/freight-and-logistics> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/dynamic-traffic-signs-and-regulations>
   skos:narrower <https://w3id.org/mobilitydcat-ap/mobility-theme/bridge-closures-and-access-conditions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/direction-of-travel-on-reversible-lanes>, <https://w3id.org/mobilitydcat-ap/mobility-theme/dynamic-overtaking-bans-on-heavy-goods-vehicles>, <https://w3id.org/mobilitydcat-ap/mobility-theme/dynamic-speed-limits>, <https://w3id.org/mobilitydcat-ap/mobility-theme/lane-closures-and-access-conditions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/other-access-restrictions-and-traffic-regulations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/other-temporary-traffic-management-measures-or-plans>, <https://w3id.org/mobilitydcat-ap/mobility-theme/road-closures-and-access-conditions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/tunnel-closures-and-access-conditions> ;
-  skos:prefLabel "Dynamic traffic signs and regulations"@en ;
+  skos:prefLabel "Dynamic traffic signs and regulations"@en, "Dynamische Verkehrszeichen und Vorschriften"@de, "Динамични пътни знаци и правила"@bg, "Dynamiske trafikskilte og regler"@da, "Dünaamilised liiklusmärgid ja eeskirjad"@et, "Dynaamiset liikennemerkit ja -määräykset"@fi, "Signaux et règles de circulation dynamiques"@fr, "Δυναμική σήμανση και κανονισμοί κυκλοφορίας"@el, "Segnaletica dinamica e norme sul traffico"@it, "Dinamiskās ceļa zīmes un noteikumi"@lv, "Dinaminiai eismo ženklai ir taisyklės"@lt, "Dynamische verkeersborden en -regels"@nl, "Dynamiczne znaki drogowe i przepisy ruchu drogowego"@pl, "Sinais e regulamentos de trânsito dinâmicos"@pt-pt, "Semne și reglementări dinamice privind traficul"@ro, "Dynamiska trafikskyltar och trafikregler"@sv, "Dynamické dopravné značky a predpisy"@sk, "Dinamični prometni znaki in predpisi"@sl, "Señales y normas de tráfico dinámicas"@es, "Dynamické dopravní značky a předpisy"@cs, "Dinamikus közlekedési táblák és szabályok"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-category> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/road-closures-and-access-conditions>
-  skos:prefLabel "Road closures and access conditions"@en ;
+  skos:prefLabel "Road closures and access conditions"@en, "Straßensperrungen und Zugangsbedingungen"@de, "Затворени пътища и условия за достъп"@bg, "Vejlukninger og adgangsforhold"@da, "Teede sulgemine ja juurdepääsutingimused"@et, "Tiesulut ja kulkuyhteydet"@fi, "Fermetures de routes et conditions d'accès"@fr, "Κλείσιμο δρόμων και συνθήκες πρόσβασης"@el, "Chiusura delle strade e condizioni di accesso"@it, "Ceļu slēgšana un piekļuves nosacījumi"@lv, "Kelių uždarymas ir privažiavimo sąlygos"@lt, "Wegafsluitingen en toegangsvoorwaarden"@nl, "Zamknięcia dróg i warunki dostępu"@pl, "Encerramento de estradas e condições de acesso"@pt-pt, "Închiderea drumurilor și condițiile de acces"@ro, "Vägavstängningar och framkomlighet"@sv, "Uzávierky ciest a podmienky prístupu"@sk, "Zapore cest in pogoji dostopa"@sl, "Cierres de carreteras y condiciones de acceso"@es, "Uzavírky silnic a podmínky přístupu"@cs, "Útlezárások és megközelítési feltételek"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/dynamic-traffic-signs-and-regulations> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/lane-closures-and-access-conditions>
-  skos:prefLabel "Lane closures and access conditions"@en ;
+  skos:prefLabel "Lane closures and access conditions"@en, "Fahrbahnsperrungen und Zugangsbedingungen"@de, "Затваряне на ленти и условия за достъп"@bg, "Lukning af vejbaner og adgangsforhold"@da, "Sõiduradade sulgemine ja juurdepääsutingimused"@et, "Kaistojen sulkeminen ja kulkuyhteydet"@fi, "Fermetures de voies et conditions d'accès"@fr, "Κλείσιμο λωρίδων και συνθήκες πρόσβασης"@el, "Chiusura delle corsie e condizioni di accesso"@it, "Joslu slēgšana un piekļuves nosacījumi"@lv, "Eismo juostų uždarymas ir patekimo sąlygos"@lt, "Afsluitingen van rijstroken en toegangsvoorwaarden"@nl, "Zamknięcia pasów ruchu i warunki dostępu"@pl, "Encerramento de faixas de rodagem e condições de acesso"@pt-pt, "Închiderea benzilor de circulație și condițiile de acces"@ro, "Avstängning av körfält och framkomlighet"@sv, "Uzávierky jazdných pruhov a podmienky prístupu"@sk, "Zapore voznih pasov in pogoji dostopa"@sl, "Cierre de carriles y condiciones de acceso"@es, "Uzavírky jízdních pruhů a podmínky přístupu"@cs, "Sávlezárások és hozzáférési feltételek"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/dynamic-traffic-signs-and-regulations> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/bridge-closures-and-access-conditions>
-  skos:prefLabel "Bridge closures and access conditions"@en ;
+  skos:prefLabel "Bridge closures and access conditions"@en, "Brückensperrungen und Zugangsbedingungen"@de, "Затваряне на мостове и условия за достъп"@bg, "Brolukninger og adgangsforhold"@da, "Sildade sulgemine ja juurdepääsutingimused"@et, "Siltojen sulkemiset ja kulkuyhteydet"@fi, "Fermetures de ponts et conditions d'accès"@fr, "Κλείσιμο γεφυρών και συνθήκες πρόσβασης"@el, "Chiusura dei ponti e condizioni di accesso"@it, "Tiltu slēgšana un piekļuves nosacījumi"@lv, "Tiltų uždarymas ir prieigos sąlygos"@lt, "Brugsluitingen en toegangsvoorwaarden"@nl, "Zamknięcia mostów i warunki dostępu"@pl, "Encerramento de pontes e condições de acesso"@pt-pt, "Închiderea podurilor și condițiile de acces"@ro, "Broavstängningar och framkomlighet"@sv, "Uzávierky mostov a podmienky prístupu"@sk, "Zapore mostov in pogoji dostopa"@sl, "Cierres de puentes y condiciones de acceso"@es, "Uzavírky mostů a podmínky přístupu"@cs, "Hídlezárások és hozzáférési feltételek"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/dynamic-traffic-signs-and-regulations> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/tunnel-closures-and-access-conditions>
-  skos:prefLabel "Tunnel closures and access conditions"@en ;
+  skos:prefLabel "Tunnel closures and access conditions"@en, "Tunnelsperrungen und Zugangsbedingungen"@de, "Затваряне на тунели и условия за достъп"@bg, "Tunnellukninger og adgangsforhold"@da, "Tunnelite sulgemine ja juurdepääsutingimused"@et, "Tunnelien sulkeminen ja kulkuyhteydet"@fi, "Fermetures de tunnels et conditions d'accès"@fr, "Κλείσιμο σηράγγων και συνθήκες πρόσβασης"@el, "Chiusura dei tunnel e condizioni di accesso"@it, "Tuneļu slēgšana un piekļuves nosacījumi"@lv, "Tunelų uždarymas ir patekimo į juos sąlygos"@lt, "Tunnelsluitingen en toegangsvoorwaarden"@nl, "Zamknięcia tuneli i warunki dostępu"@pl, "Encerramento de túneis e condições de acesso"@pt-pt, "Închiderea tunelurilor și condițiile de acces"@ro, "Tunnelavstängningar och tillträdesvillkor"@sv, "Uzávierky tunelov a podmienky prístupu"@sk, "Zapore predorov in pogoji dostopa"@sl, "Cierres de túneles y condiciones de acceso"@es, "Uzavírky tunelů a podmínky přístupu"@cs, "Alagútlezárások és hozzáférési feltételek"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/dynamic-traffic-signs-and-regulations> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/other-access-restrictions-and-traffic-regulations>
-  skos:prefLabel "Other access restrictions and traffic regulations"@en ;
+  skos:prefLabel "Other access restrictions and traffic regulations"@en, "Sonstige Zugangsbeschränkungen und Verkehrsvorschriften"@de, "Други ограничения за достъп и правила за движение"@bg, "Andre adgangsbegrænsninger og trafikregler"@da, "Muud juurdepääsupiirangud ja liikluseeskirjad"@et, "Muut pääsyrajoitukset ja liikennesäännöt"@fi, "Autres restrictions d'accès et règles de circulation"@fr, "Άλλοι περιορισμοί πρόσβασης και κανονισμοί κυκλοφορίας"@el, "Altre limitazioni di accesso e norme di circolazione"@it, "Citi piekļuves ierobežojumi un satiksmes noteikumi"@lv, "Kiti prieigos apribojimai ir eismo taisyklės"@lt, "Andere toegangsbeperkingen en verkeersregels"@nl, "Inne ograniczenia dostępu i przepisy ruchu drogowego"@pl, "Outras restrições de acesso e regras de trânsito"@pt-pt, "Alte restricții de acces și reglementări privind traficul"@ro, "Andra tillträdesbegränsningar och trafikregleringar"@sv, "Iné obmedzenia prístupu a dopravné predpisy"@sk, "Druge omejitve dostopa in prometni predpisi"@sl, "Otras restricciones de acceso y normas de tráfico"@es, "Další omezení přístupu a dopravní předpisy"@cs, "Egyéb hozzáférési korlátozások és közlekedési szabályok"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/dynamic-traffic-signs-and-regulations> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/dynamic-overtaking-bans-on-heavy-goods-vehicles>
-  skos:prefLabel "Dynamic overtaking bans on heavy goods vehicles"@en ;
+  skos:prefLabel "Dynamic overtaking bans on heavy goods vehicles"@en, "Dynamische Überholverbote für schwere Nutzfahrzeuge"@de, "Динамични забрани за изпреварване на тежкотоварни превозни средства"@bg, "Dynamisk overhalingsforbud for tunge lastbiler"@da, "Raskeveokite dünaamilised möödasõidukeelud"@et, "Raskaiden tavarankuljetusajoneuvojen dynaamiset ohituskiellot"@fi, "Interdiction de dépassement dynamique pour les poids lourds"@fr, "Δυναμικές απαγορεύσεις προσπέρασης σε βαρέα φορτηγά οχήματα"@el, "Divieto di sorpasso dinamico per i veicoli commerciali pesanti"@it, "Dinamiskie apdzīšanas aizliegumi smagajiem kravas transportlīdzekļiem"@lv, "Dinaminiai draudimai lenkti sunkiasvorėms krovininėms transporto priemonėms"@lt, "Dynamisch inhaalverbod voor vrachtwagens"@nl, "Dynamiczne zakazy wyprzedzania dla pojazdów ciężarowych"@pl, "Proibições de ultrapassagem dinâmica para veículos pesados de mercadorias"@pt-pt, "Interdicții dinamice de depășire pentru vehiculele grele de marfă"@ro, "Dynamiska omkörningsförbud för tunga lastbilar"@sv, "Dynamické zákazy predbiehania pre ťažké nákladné vozidlá"@sk, "Prepoved dinamičnega prehitevanja težkih tovornih vozil"@sl, "Prohibición dinámica de adelantar a los camiones"@es, "Dynamické zákazy předjíždění pro těžká nákladní vozidla"@cs, "Dinamikus előzési tilalmak a nehéz tehergépjárművekre vonatkozóan"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/dynamic-traffic-signs-and-regulations> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/dynamic-speed-limits>
-  skos:prefLabel "Dynamic speed limits"@en ;
+  skos:prefLabel "Dynamic speed limits"@en, "Dynamische Geschwindigkeitsbegrenzungen"@de, "Динамични ограничения на скоростта"@bg, "Dynamiske hastighedsgrænser"@da, "Dünaamilised kiiruspiirangud"@et, "Dynaamiset nopeusrajoitukset"@fi, "Limites de vitesse dynamiques"@fr, "Δυναμικά όρια ταχύτητας"@el, "Limiti di velocità dinamici"@it, "Dinamiskie ātruma ierobežojumi"@lv, "Dinaminiai greičio apribojimai"@lt, "Dynamische snelheidslimieten"@nl, "Dynamiczne ograniczenia prędkości"@pl, "Limites de velocidade dinâmicos"@pt-pt, "Limite de viteză dinamice"@ro, "Dynamiska hastighetsbegränsningar"@sv, "Dynamické obmedzenia rýchlosti"@sk, "Dinamične omejitve hitrosti"@sl, "Límites de velocidad dinámicos"@es, "Dynamické omezení rychlosti"@cs, "Dinamikus sebességkorlátozások"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/dynamic-traffic-signs-and-regulations> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/direction-of-travel-on-reversible-lanes>
-  skos:prefLabel "Direction of travel on reversible lanes"@en ;
+  skos:prefLabel "Direction of travel on reversible lanes"@en, "Fahrtrichtung auf reversiblen Fahrspuren"@de, "Посока на движение при реверсивни ленти"@bg, "Kørselsretning på reversible baner"@da, "Sõidusuund ümberpööratavatel sõiduradadel"@et, "Ajosuunta kääntyvillä kaistoilla"@fi, "Sens de circulation sur les voies réversibles"@fr, "Κατεύθυνση κίνησης στις αναστρέψιμες λωρίδες"@el, "Senso di marcia sulle corsie reversibili"@it, "Braukšanas virziens uz apgriezeniskajām joslām"@lv, "Važiavimo kryptis grįžtamosiose juostose"@lt, "Rijrichting op omkeerbare rijstroken"@nl, "Kierunek jazdy na pasach odwracalnych"@pl, "Sentido de circulação nas faixas reversíveis"@pt-pt, "Sensul de deplasare pe benzile reversibile"@ro, "Körriktning på reversibla körfält"@sv, "Smer jazdy v obojsmerných jazdných pruhoch"@sk, "Smer vožnje na obračalnih pasovih"@sl, "Sentido de la marcha en carriles reversibles"@es, "Směr jízdy v obousměrných jízdních pruzích"@cs, "A megfordítható sávok haladási iránya"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/dynamic-traffic-signs-and-regulations> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/other-temporary-traffic-management-measures-or-plans>
-  skos:prefLabel "Other temporary traffic management measures or plans"@en ;
+  skos:prefLabel "Other temporary traffic management measures or plans"@en, "Andere vorübergehende Verkehrsmanagementmaßnahmen oder -pläne"@de, "Други временни мерки или планове за управление на трафика"@bg, "Andre midlertidige trafikstyringsforanstaltninger eller -planer"@da, "Muud ajutised liikluskorraldusvahendid või -plaanid"@et, "Muut väliaikaiset liikenteenhallintatoimenpiteet tai -suunnitelmat"@fi, "Autres mesures ou plans temporaires de gestion du trafic"@fr, "Άλλα προσωρινά μέτρα ή σχέδια διαχείρισης της κυκλοφορίας"@el, "Altre misure o piani di gestione temporanea del traffico"@it, "Citi pagaidu satiksmes pārvaldības pasākumi vai plāni"@lv, "Kitos laikinos eismo valdymo priemonės ar planai"@lt, "Andere tijdelijke verkeersmanagementmaatregelen of -plannen"@nl, "Inne tymczasowe środki lub plany zarządzania ruchem"@pl, "Outras medidas ou planos temporários de gestão do tráfego"@pt-pt, "Alte măsuri sau planuri temporare de gestionare a traficului"@ro, "Andra tillfälliga trafikledningsåtgärder eller planer"@sv, "Iné dočasné opatrenia alebo plány riadenia dopravy"@sk, "Drugi začasni ukrepi ali načrti za upravljanje prometa"@sl, "Otras medidas o planes temporales de gestión del tráfico"@es, "Další dočasná opatření nebo plány řízení dopravy"@cs, "Egyéb ideiglenes forgalomirányítási intézkedések vagy tervek"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/dynamic-traffic-signs-and-regulations> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/road-work-information>
   skos:narrower <https://w3id.org/mobilitydcat-ap/mobility-theme/long-term-road-works>, <https://w3id.org/mobilitydcat-ap/mobility-theme/short-term-road-works> ;
-  skos:prefLabel "Road work information"@en ;
+  skos:prefLabel "Road work information"@en, "Informationen zu Straßenarbeiten"@de, "Информация за работата по пътищата"@bg, "Information om vejarbejde"@da, "Teetöödega seotud teave"@et, "Tietoja tietyöstä"@fi, "Informations sur les travaux routiers"@fr, "Πληροφορίες για τα οδικά έργα"@el, "Informazioni sui lavori stradali"@it, "Informācija par ceļu darbiem"@lv, "Informacija apie kelio darbus"@lt, "Informatie over wegwerkzaamheden"@nl, "Informacje o robotach drogowych"@pl, "Informações sobre obras rodoviárias"@pt-pt, "Informații privind lucrările rutiere"@ro, "Information om vägarbeten"@sv, "Informácie o prácach na cestách"@sk, "Informacije o delu na cesti"@sl, "Información sobre las obras"@es, "Informace o práci na silnici"@cs, "Útépítési információk"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-category> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/long-term-road-works>
-  skos:prefLabel "Long-term road works"@en ;
+  skos:prefLabel "Long-term road works"@en, "Langfristige Straßenbauarbeiten"@de, "Дългосрочни пътни работи"@bg, "Langsigtet vejarbejde"@da, "Pikaajalised teetööd"@et, "Pitkäaikaiset tietyömaat"@fi, "Travaux routiers à long terme"@fr, "Μακροπρόθεσμα οδικά έργα"@el, "Lavori stradali a lungo termine"@it, "Ilgtermiņa ceļu darbi"@lv, "Ilgalaikiai kelio darbai"@lt, "Wegwerkzaamheden op lange termijn"@nl, "Długoterminowe roboty drogowe"@pl, "Obras rodoviárias a longo prazo"@pt-pt, "Lucrări rutiere pe termen lung"@ro, "Långsiktiga vägarbeten"@sv, "Dlhodobé práce na cestách"@sk, "Dolgoročna dela na cestah"@sl, "Obras viales a largo plazo"@es, "Dlouhodobé práce na silnici"@cs, "Hosszú távú közúti munkálatok"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/road-work-information> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/short-term-road-works>
-  skos:prefLabel "Short-term road works"@en ;
+  skos:prefLabel "Short-term road works"@en, "Kurzfristige Straßenarbeiten"@de, "Краткосрочни пътни работи"@bg, "Kortvarige vejarbejder"@da, "Lühiajalised teetööd"@et, "Lyhytaikaiset tietyömaat"@fi, "Travaux routiers à court terme"@fr, "Βραχυπρόθεσμα οδικά έργα"@el, "Lavori stradali a breve termine"@it, "Īstermiņa ceļu darbi"@lv, "Trumpalaikiai kelio darbai"@lt, "Wegwerkzaamheden op korte termijn"@nl, "Krótkoterminowe roboty drogowe"@pl, "Obras rodoviárias de curta duração"@pt-pt, "Lucrări rutiere pe termen scurt"@ro, "Kortvariga vägarbeten"@sv, "Krátkodobé práce na ceste"@sk, "Kratkotrajna dela na cesti"@sl, "Obras viales a corto plazo"@es, "Krátkodobé práce na silnici"@cs, "Rövid távú közúti munkálatok"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/road-work-information> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/road-events-and-conditions>
   skos:narrower <https://w3id.org/mobilitydcat-ap/mobility-theme/accidents-and-incidents>, <https://w3id.org/mobilitydcat-ap/mobility-theme/poor-road-conditions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/road-weather-conditions> ;
-  skos:prefLabel "Road events and conditions"@en ;
+  skos:prefLabel "Road events and conditions"@en, "Ereignisse und Bedingungen auf der Straße"@de, "Събития и условия на пътя"@bg, "Begivenheder og forhold på vejene"@da, "Maanteeüritused ja -tingimused"@et, "Tieliikenteen tapahtumat ja olosuhteet"@fi, "Événements et conditions routières"@fr, "Οδικά συμβάντα και συνθήκες"@el, "Eventi e condizioni stradali"@it, "Notikumi un apstākļi uz ceļa"@lv, "Įvykiai ir sąlygos kelyje"@lt, "Weggebeurtenissen en -omstandigheden"@nl, "Zdarzenia i warunki drogowe"@pl, "Eventos e condições das estradas"@pt-pt, "Evenimente și condiții rutiere"@ro, "Händelser och förhållanden på vägarna"@sv, "Udalosti a podmienky na cestách"@sk, "Dogodki in razmere na cesti"@sl, "Acontecimientos y condiciones de la carretera"@es, "Silniční události a podmínky"@cs, "Közúti események és feltételek"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-category> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/accidents-and-incidents>
-  skos:prefLabel "Accidents and incidents"@en ;
+  skos:prefLabel "Accidents and incidents"@en, "Unfälle und Zwischenfälle"@de, "Произшествия и инциденти"@bg, "Ulykker og hændelser"@da, "Õnnetused ja vahejuhtumid"@et, "Onnettomuudet ja vaaratilanteet"@fi, "Accidents et incidents"@fr, "Ατυχήματα και συμβάντα"@el, "Incidenti e inconvenienti"@it, "Negadījumi un starpgadījumi"@lv, "Nelaimingi atsitikimai ir incidentai"@lt, "Ongevallen en incidenten"@nl, "Wypadki i incydenty"@pl, "Acidentes e incidentes"@pt-pt, "Accidente și incidente"@ro, "Olyckor och tillbud"@sv, "Nehody a incidenty"@sk, "Nesreče in incidenti"@sl, "Accidentes e incidentes"@es, "Nehody a incidenty"@cs, "Balesetek és események"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/road-events-and-conditions> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/poor-road-conditions>
-  skos:prefLabel "Poor road conditions"@en ;
+  skos:prefLabel "Poor road conditions"@en, "Schlechte Straßenverhältnisse"@de, "Лоши пътни условия"@bg, "Dårlige vejforhold"@da, "Halvad teeolud"@et, "Huonot tieolosuhteet"@fi, "Mauvais état des routes"@fr, "Κακές οδικές συνθήκες"@el, "Cattive condizioni stradali"@it, "Slikts ceļu stāvoklis"@lv, "Prastos kelių sąlygos"@lt, "Slechte wegomstandigheden"@nl, "Złe warunki drogowe"@pl, "Más condições das estradas"@pt-pt, "Condiții rutiere precare"@ro, "Dåliga vägförhållanden"@sv, "Zlé podmienky na cestách"@sk, "Slabe razmere na cestah"@sl, "Mal estado de las carreteras"@es, "Špatný stav silnic"@cs, "Rossz útviszonyok"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/road-events-and-conditions> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/road-weather-conditions>
-  skos:prefLabel "Road weather conditions"@en ;
+  skos:prefLabel "Road weather conditions"@en, "Wetterbedingungen auf der Straße"@de, "Пътни метеорологични условия"@bg, "Vejrforhold på vejen"@da, "Tee ilmastikutingimused"@et, "Tien sääolosuhteet"@fi, "Conditions météorologiques sur les routes"@fr, "Οδικές καιρικές συνθήκες"@el, "Condizioni meteorologiche della strada"@it, "Laikapstākļi uz ceļa"@lv, "Kelių oro sąlygos"@lt, "Weersomstandigheden op de weg"@nl, "Warunki pogodowe na drodze"@pl, "Condições climatéricas da estrada"@pt-pt, "Condițiile meteorologice rutiere"@ro, "Väderförhållanden på vägarna"@sv, "Poveternostné podmienky na cestách"@sk, "Vremenske razmere na cesti"@sl, "Condiciones meteorológicas de la carretera"@es, "Povětrnostní podmínky na silnici"@cs, "Közúti időjárási körülmények"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/road-events-and-conditions> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/real-time-traffic-data>
   skos:narrower <https://w3id.org/mobilitydcat-ap/mobility-theme/current-travel-times>, <https://w3id.org/mobilitydcat-ap/mobility-theme/expected-delays>, <https://w3id.org/mobilitydcat-ap/mobility-theme/location-and-length-of-queues>, <https://w3id.org/mobilitydcat-ap/mobility-theme/predicted-travel-times>, <https://w3id.org/mobilitydcat-ap/mobility-theme/speed>, <https://w3id.org/mobilitydcat-ap/mobility-theme/traffic-data-at-border-crossings-to-third-countries>, <https://w3id.org/mobilitydcat-ap/mobility-theme/traffic-volume>, <https://w3id.org/mobilitydcat-ap/mobility-theme/waiting-time-at-border-crossings-to-non-eu-member-states> ;
-  skos:prefLabel "Real-time traffic data"@en ;
+  skos:prefLabel "Real-time traffic data"@en, "Verkehrsdaten in Echtzeit"@de, "Данни за трафика в реално време"@bg, "Trafikdata i realtid"@da, "Reaalajas liiklusandmed"@et, "Reaaliaikaiset liikennetiedot"@fi, "Données sur le trafic en temps réel"@fr, "Δεδομένα κυκλοφορίας σε πραγματικό χρόνο"@el, "Dati sul traffico in tempo reale"@it, "Reāllaika satiksmes dati"@lv, "Realaus laiko eismo duomenys"@lt, "Real-time verkeersgegevens"@nl, "Dane o ruchu w czasie rzeczywistym"@pl, "Dados de tráfego em tempo real"@pt-pt, "Date de trafic în timp real"@ro, "Trafikdata i realtid"@sv, "Dopravné údaje v reálnom čase"@sk, "Podatki o prometu v realnem času"@sl, "Datos de tráfico en tiempo real"@es, "Dopravní data v reálném čase"@cs, "Valós idejű forgalmi adatok"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-category> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/traffic-volume>
-  skos:prefLabel "Traffic volume"@en ;
+  skos:prefLabel "Traffic volume"@en, "Verkehrsaufkommen"@de, "Обем на трафика"@bg, "Trafikmængde"@da, "Liikluse maht"@et, "Liikenteen määrä"@fi, "Volume de trafic"@fr, "Όγκος κυκλοφορίας"@el, "Volume di traffico"@it, "Satiksmes intensitāte"@lv, "Eismo intensyvumas"@lt, "Verkeersvolume"@nl, "Natężenie ruchu"@pl, "Volume de tráfego"@pt-pt, "Volumul traficului"@ro, "Trafikvolym"@sv, "Objem dopravy"@sk, "Obseg prometa"@sl, "Volumen de tráfico"@es, "Objem dopravy"@cs, "Forgalmi volumen"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/real-time-traffic-data> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/speed>
-  skos:prefLabel "Speed"@en ;
+  skos:prefLabel "Speed"@en, "Geschwindigkeit"@de, "Скорост"@bg, "Hastighed"@da, "Kiirus"@et, "Nopeus"@fi, "Vitesse"@fr, "Ταχύτητα"@el, "Velocità"@it, "Ātrums"@lv, "Greitis"@lt, "Snelheid"@nl, "Prędkość"@pl, "Velocidade"@pt-pt, "Viteza"@ro, "Hastighet"@sv, "Rýchlosť"@sk, "Hitrost"@sl, "Velocidad"@es, "Rychlost"@cs, "Sebesség"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/real-time-traffic-data> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/location-and-length-of-queues>
-  skos:prefLabel "Location and length of queues"@en ;
+  skos:prefLabel "Location and length of queues"@en, "Ort und Länge der Warteschlangen"@de, "Местоположение и дължина на опашките"@bg, "Køernes placering og længde"@da, "Järjekordade asukoht ja pikkus"@et, "Jonojen sijainti ja pituus"@fi, "Emplacement et longueur des files d'attente"@fr, "Θέση και μήκος των ουρών αναμονής"@el, "Posizione e lunghezza delle code"@it, "rindu atrašanās vieta un garums"@lv, "Eilių vieta ir ilgis"@lt, "Locatie en lengte van wachtrijen"@nl, "Lokalizacja i długość kolejek"@pl, "Localização e duração das filas de espera"@pt-pt, "Amplasarea și lungimea cozilor"@ro, "Köernas placering och längd"@sv, "Umiestnenie a dĺžka frontov"@sk, "Lokacija in dolžina čakalnih vrst"@sl, "Localización y longitud de las colas"@es, "Umístění a délka front"@cs, "A sorok elhelyezkedése és hossza"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/real-time-traffic-data> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/current-travel-times>
-  skos:prefLabel "Current travel times"@en ;
+  skos:prefLabel "Current travel times"@en, "Aktuelle Reisezeiten"@de, "Текущо време за пътуване"@bg, "Aktuelle rejsetider"@da, "Praegune sõiduaeg"@et, "Nykyiset matka-ajat"@fi, "Temps de parcours actuels"@fr, "Τρέχοντες χρόνοι ταξιδιού"@el, "Tempi di percorrenza attuali"@it, "Pašreizējais brauciena laiks"@lv, "Dabartinis kelionės laikas"@lt, "Huidige reistijden"@nl, "Aktualne czasy podróży"@pl, "Tempos de viagem actuais"@pt-pt, "Timpii de călătorie actuali"@ro, "Aktuella restider"@sv, "Aktuálne cestovné časy"@sk, "Trenutni potovalni časi"@sl, "Horarios de viaje actuales"@es, "Aktuální cestovní časy"@cs, "Jelenlegi utazási idők"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/real-time-traffic-data> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/predicted-travel-times>
-  skos:prefLabel "Predicted travel times"@en ;
+  skos:prefLabel "Predicted travel times"@en, "Voraussichtliche Reisezeiten"@de, "Предвидено време за пътуване"@bg, "Forventede rejsetider"@da, "Prognoositud sõiduaeg"@et, "Ennustetut matka-ajat"@fi, "Temps de trajet prévus"@fr, "Προβλεπόμενοι χρόνοι ταξιδιού"@el, "Tempi di percorrenza previsti"@it, "Paredzamais brauciena laiks"@lv, "Numatomas kelionės laikas"@lt, "Voorspelde reistijden"@nl, "Przewidywane czasy podróży"@pl, "Tempos de viagem previstos"@pt-pt, "Timpii de călătorie preconizați"@ro, "Förutsedda restider"@sv, "Predpokladaný čas cesty"@sk, "Predvideni potovalni časi"@sl, "Tiempos de viaje previstos"@es, "Předpokládaná doba jízdy"@cs, "Előre jelzett utazási idők"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/real-time-traffic-data> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/expected-delays>
-  skos:prefLabel "Expected delays"@en ;
+  skos:prefLabel "Expected delays"@en, "Erwartete Verzögerungen"@de, "Очаквани закъснения"@bg, "Forventede forsinkelser"@da, "Oodatavad viivitused"@et, "Odotettavissa olevat viivästykset"@fi, "Retards prévus"@fr, "Αναμενόμενες καθυστερήσεις"@el, "Ritardi previsti"@it, "Paredzamie kavējumi"@lv, "Tikėtini vėlavimai"@lt, "Verwachte vertragingen"@nl, "Oczekiwane opóźnienia"@pl, "Atrasos previstos"@pt-pt, "Întârzieri preconizate"@ro, "Förväntade förseningar"@sv, "Očakávané oneskorenia"@sk, "Pričakovane zamude"@sl, "Retrasos previstos"@es, "Očekávaná zpoždění"@cs, "Várható késések"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/real-time-traffic-data> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/waiting-time-at-border-crossings-to-non-eu-member-states>
-  skos:prefLabel "Waiting time at border crossings to non-EU Member States"@en ;
+  skos:prefLabel "Waiting time at border crossings to non-EU Member States"@en, "Wartezeit an Grenzübergängen zu Nicht-EU-Mitgliedstaaten"@de, "Време за изчакване на граничните пунктове към държави извън ЕС"@bg, "Ventetid ved grænseovergange til ikke-EU-medlemsstater"@da, "Ooteaeg ELi mittekuuluvate riikide piiripunktides"@et, "Odotusaika EU:n ulkopuolisten jäsenvaltioiden rajanylityspaikoilla"@fi, "Temps d'attente aux frontières avec les États non membres de l'UE"@fr, "Χρόνος αναμονής στις συνοριακές διελεύσεις προς τα κράτη μέλη εκτός ΕΕ"@el, "Tempo di attesa ai valichi di frontiera verso gli Stati non membri dell'UE"@it, "Gaidīšanas laiks robežšķērsošanas vietās uz valstīm, kas nav ES dalībvalstis"@lv, "Laukimo laikas kertant sieną su ES nepriklausančiomis valstybėmis narėmis"@lt, "Wachttijd bij grensovergangen naar niet-EU-lidstaten"@nl, "Czas oczekiwania na przejściach granicznych do państw spoza UE"@pl, "Tempo de espera nos pontos de passagem das fronteiras com países terceiros"@pt-pt, "Timpul de așteptare la punctele de trecere a frontierei către statele care nu sunt membre ale UE"@ro, "Väntetid vid gränsövergångar till länder utanför EU"@sv, "Čas čakania na hraničných priechodoch do nečlenských štátov EÚ"@sk, "Čakalna doba na mejnih prehodih z državami, ki niso članice EU"@sl, "Tiempo de espera en los pasos fronterizos con Estados no miembros de la UE"@es, "Čekací doba na hraničních přechodech do nečlenských států EU"@cs, "Várakozási idő a nem uniós tagállamokba irányuló határátkelőhelyeken"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/real-time-traffic-data> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/traffic-data-at-border-crossings-to-third-countries>
-  skos:prefLabel "Traffic data at border crossings to third countries"@en ;
+  skos:prefLabel "Traffic data at border crossings to third countries"@en, "Verkehrsdaten an Grenzübergängen zu Drittländern"@de, "Данни за трафика на граничните контролно-пропускателни пунктове към трети държави"@bg, "Trafikdata ved grænseovergange til tredjelande"@da, "Liiklusandmed kolmandate riikide piiripunktides"@et, "Liikennetiedot kolmansien maiden rajanylityspaikoilla"@fi, "Données sur le trafic aux frontières avec les pays tiers"@fr, "Δεδομένα κυκλοφορίας στις συνοριακές διαβάσεις προς τρίτες χώρες"@el, "Dati sul traffico ai valichi di frontiera verso i paesi terzi"@it, "Satiksmes dati robežšķērsošanas vietās uz trešām valstīm"@lv, "Eismo duomenys prie sienos kirtimo punktų į trečiąsias šalis"@lt, "Verkeersgegevens bij grensovergangen naar derde landen"@nl, "Dane o ruchu na przejściach granicznych do krajów trzecich"@pl, "Dados de tráfego nos pontos de passagem das fronteiras com países terceiros"@pt-pt, "Date privind traficul la punctele de trecere a frontierei către țări terțe"@ro, "Trafikdata vid gränsövergångar till tredje land"@sv, "Údaje o premávke na hraničných priechodoch do tretích krajín"@sk, "Podatki o prometu na mejnih prehodih s tretjimi državami"@sl, "Datos de tráfico en los pasos fronterizos con terceros países"@es, "Údaje o provozu na hraničních přechodech do třetích zemí"@cs, "Forgalmi adatok a harmadik országok határátkelőinél"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/real-time-traffic-data> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/general-information-for-trip-planning->
   skos:narrower <https://w3id.org/mobilitydcat-ap/mobility-theme/address-identifiers>, <https://w3id.org/mobilitydcat-ap/mobility-theme/parameters-needed-to-calculate-costs>, <https://w3id.org/mobilitydcat-ap/mobility-theme/parameters-needed-to-calculate-environmental-factors>, <https://w3id.org/mobilitydcat-ap/mobility-theme/points-of-interest>, <https://w3id.org/mobilitydcat-ap/mobility-theme/topographic-places> ;
-  skos:prefLabel "General information for trip-planning"@en ;
+  skos:prefLabel "General information for trip-planning"@en, "Allgemeine Informationen für die Reiseplanung"@de, "Обща информация за планиране на пътуването"@bg, "Generel information til rejseplanlægning"@da, "Üldine teave reisi planeerimiseks"@et, "Yleistä tietoa matkan suunnittelua varten"@fi, "Informations générales pour l'organisation du voyage"@fr, "Γενικές πληροφορίες για τον προγραμματισμό ταξιδιού"@el, "Informazioni generali per la pianificazione del viaggio"@it, "Vispārīga informācija par ceļojuma plānošanu"@lv, "Bendra informacija apie kelionių planavimą"@lt, "Algemene informatie voor reisplanning"@nl, "Ogólne informacje dotyczące planowania podróży"@pl, "Informações gerais para a planificação da viagem"@pt-pt, "Informații generale pentru planificarea călătoriei"@ro, "Allmän information för reseplanering"@sv, "Všeobecné informácie na plánovanie cesty"@sk, "Splošne informacije za načrtovanje potovanj"@sl, "Información general para la planificación de viajes"@es, "Obecné informace pro plánování cesty"@cs, "Általános információk az utazás megtervezéséhez"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-category> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/address-identifiers>
-  skos:prefLabel "Address identifiers"@en ;
+  skos:prefLabel "Address identifiers"@en, "Adresskennungen"@de, "Идентификатори на адреси"@bg, "Adresse-identifikatorer"@da, "Aadressi tunnused"@et, "Osoitetunnukset"@fi, "Identificateurs d'adresses"@fr, "Αναγνωριστικά διεύθυνσης"@el, "Identificatori di indirizzo"@it, "Adrešu identifikatori"@lv, "Adresų identifikatoriai"@lt, "Identificatie van adressen"@nl, "Identyfikatory adresów"@pl, "Identificadores de endereços"@pt-pt, "Identificatori de adresă"@ro, "Adressidentifierare"@sv, "Identifikátory adries"@sk, "Identifikatorji naslovov"@sl, "Identificadores de dirección"@es, "Identifikátory adres"@cs, "Címazonosítók"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/general-information-for-trip-planning-> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/topographic-places>
-  skos:prefLabel "Topographic places"@en ;
+  skos:prefLabel "Topographic places"@en, "Topografische Orte"@de, "Топографски места"@bg, "Topografiske steder"@da, "Topograafilised kohad"@et, "Topografiset paikat"@fi, "Lieux topographiques"@fr, "Τοπογραφικές θέσεις"@el, "Luoghi topografici"@it, "Topogrāfiskās vietas"@lv, "Topografinės vietos"@lt, "Topografische plaatsen"@nl, "Miejsca topograficzne"@pl, "Locais topográficos"@pt-pt, "Locuri topografice"@ro, "Topografiska platser"@sv, "Topografické miesta"@sk, "Topografski kraji"@sl, "Lugares topográficos"@es, "Topografická místa"@cs, "Topográfiai helyek"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/general-information-for-trip-planning-> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/points-of-interest>
-  skos:prefLabel "Points of interest"@en ;
+  skos:prefLabel "Points of interest"@en, "Interessante Punkte"@de, "Забележителности"@bg, "Interessante steder"@da, "Huvipunktid"@et, "Mielenkiintoiset kohteet"@fi, "Points d'intérêt"@fr, "Σημεία ενδιαφέροντος"@el, "Punti di interesse"@it, "Interesanti punkti"@lv, "Lankytinos vietos"@lt, "Nuttige punten"@nl, "Punkty zainteresowania"@pl, "Pontos de interesse"@pt-pt, "Puncte de interes"@ro, "Intressanta platser"@sv, "Zaujímavosti"@sk, "Zanimivosti"@sl, "Puntos de interés"@es, "Zajímavosti"@cs, "Érdekességek"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/general-information-for-trip-planning-> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/parameters-needed-to-calculate-environmental-factors>
-  skos:prefLabel "Parameters needed to calculate environmental factors"@en ;
+  skos:prefLabel "Parameters needed to calculate environmental factors"@en, "Für die Berechnung der Umweltfaktoren erforderliche Parameter"@de, "Параметри, необходими за изчисляване на факторите на околната среда"@bg, "Parametre, der er nødvendige for at beregne miljøfaktorer"@da, "Keskkonnategurite arvutamiseks vajalikud parameetrid"@et, "Ympäristötekijöiden laskemiseen tarvittavat parametrit"@fi, "Paramètres nécessaires au calcul des facteurs environnementaux"@fr, "Παράμετροι που απαιτούνται για τον υπολογισμό των περιβαλλοντικών παραγόντων"@el, "Parametri necessari per il calcolo dei fattori ambientali"@it, "Vides faktoru aprēķināšanai vajadzīgie parametri"@lv, "Parametrai, reikalingi aplinkos veiksniams apskaičiuoti"@lt, "Parameters die nodig zijn om omgevingsfactoren te berekenen"@nl, "Parametry potrzebne do obliczenia czynników środowiskowych"@pl, "Parâmetros necessários para calcular os factores ambientais"@pt-pt, "Parametrii necesari pentru calcularea factorilor de mediu"@ro, "Parametrar som behövs för att beräkna miljöfaktorer"@sv, "Parametre potrebné na výpočet environmentálnych faktorov"@sk, "Parametri, potrebni za izračun okoljskih dejavnikov"@sl, "Parámetros necesarios para calcular los factores medioambientales"@es, "Parametry potřebné pro výpočet faktorů prostředí"@cs, "A környezeti tényezők kiszámításához szükséges paraméterek"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/general-information-for-trip-planning-> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/parameters-needed-to-calculate-costs>
-  skos:prefLabel "Parameters needed to calculate costs"@en ;
+  skos:prefLabel "Parameters needed to calculate costs"@en, "Für die Kostenberechnung erforderliche Parameter"@de, "Параметри, необходими за изчисляване на разходите"@bg, "Parametre til beregning af omkostninger"@da, "Kulude arvutamiseks vajalikud parameetrid"@et, "Kustannusten laskemiseen tarvittavat parametrit"@fi, "Paramètres nécessaires au calcul des coûts"@fr, "Παράμετροι που απαιτούνται για τον υπολογισμό του κόστους"@el, "Parametri necessari per il calcolo dei costi"@it, "Parametri, kas nepieciešami izmaksu aprēķināšanai"@lv, "Parametrai, reikalingi išlaidoms apskaičiuoti"@lt, "Parameters die nodig zijn om de kosten te berekenen"@nl, "Parametry potrzebne do obliczenia kosztów"@pl, "Parâmetros necessários para calcular os custos"@pt-pt, "Parametrii necesari pentru calcularea costurilor"@ro, "Parametrar som behövs för att beräkna kostnader"@sv, "Parametre potrebné na výpočet nákladov"@sk, "Parametri, potrebni za izračun stroškov"@sl, "Parámetros necesarios para calcular los costes"@es, "Parametry potřebné pro výpočet nákladů"@cs, "A költségek kiszámításához szükséges paraméterek"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/general-information-for-trip-planning-> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-scheduled-transport>
   skos:narrower <https://w3id.org/mobilitydcat-ap/mobility-theme/basic-commercial-conditions>, <https://w3id.org/mobilitydcat-ap/mobility-theme/basic-common-standard-fares>, <https://w3id.org/mobilitydcat-ap/mobility-theme/common-fare-products>, <https://w3id.org/mobilitydcat-ap/mobility-theme/connection-links>, <https://w3id.org/mobilitydcat-ap/mobility-theme/disruptions-delays-cancellations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/environmental-standards-for-vehicles>, <https://w3id.org/mobilitydcat-ap/mobility-theme/hours-of-operation>, <https://w3id.org/mobilitydcat-ap/mobility-theme/network-topology-and-routes-lines>, <https://w3id.org/mobilitydcat-ap/mobility-theme/operational-calendar>, <https://w3id.org/mobilitydcat-ap/mobility-theme/passenger-classes>, <https://w3id.org/mobilitydcat-ap/mobility-theme/planned-interchanges-between-scheduled-services>, <https://w3id.org/mobilitydcat-ap/mobility-theme/purchase-information>, <https://w3id.org/mobilitydcat-ap/mobility-theme/real-time-estimated-departure-and-arrival-times>, <https://w3id.org/mobilitydcat-ap/mobility-theme/special-fare-products>, <https://w3id.org/mobilitydcat-ap/mobility-theme/stop-facilities-accessibility-and-paths-within-facility>, <https://w3id.org/mobilitydcat-ap/mobility-theme/stop-facilities-geometry-and-map-layout>, <https://w3id.org/mobilitydcat-ap/mobility-theme/stop-facilities-location-and-features>, <https://w3id.org/mobilitydcat-ap/mobility-theme/stop-facilities-status-of-features>, <https://w3id.org/mobilitydcat-ap/mobility-theme/timetables-static>, <https://w3id.org/mobilitydcat-ap/mobility-theme/transport-operators>, <https://w3id.org/mobilitydcat-ap/mobility-theme/vehicle-details> ;
-  skos:prefLabel "Public transport scheduled transport"@en ;
+  skos:prefLabel "Public transport scheduled transport"@en, "Öffentliche Verkehrsmittel Linienverkehr"@de, "Обществен транспорт редовен транспорт"@bg, "Offentlig transport planlagt transport"@da, "Ühistransport liinivedu"@et, "Julkinen liikenne Reittiliikenne"@fi, "Transports publics Transports réguliers"@fr, "Δημόσιες συγκοινωνίες τακτικές συγκοινωνίες"@el, "Trasporto pubblico di linea"@it, "Sabiedriskais transports Regulārais transports"@lv, "Viešasis transportas reguliarusis transportas"@lt, "Geregeld openbaar vervoer"@nl, "Transport publiczny transport rozkładowy"@pl, "Transportes públicos transportes regulares"@pt-pt, "Transport public Transport regulat"@ro, "Kollektivtrafik linjetrafik"@sv, "Verejná doprava pravidelná doprava"@sk, "Javni prevoz redni prevoz"@sl, "Transporte público Transporte regular"@es, "Veřejná doprava pravidelná doprava"@cs, "Tömegközlekedés menetrend szerinti közlekedés"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-category> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/stop-facilities-location-and-features>
-  skos:prefLabel "Stop facilities location and features"@en ;
+  skos:prefLabel "Stop facilities location and features"@en, "Lage und Ausstattung der Haltestellen"@de, "Местоположение и характеристики на спирките"@bg, "Stopfaciliteternes placering og funktioner"@da, "Peatusrajatiste asukoht ja omadused"@et, "Pysäkkien sijainti ja ominaisuudet"@fi, "Emplacement et caractéristiques des installations d'arrêt"@fr, "Τοποθεσία και χαρακτηριστικά των εγκαταστάσεων στάσης"@el, "Posizione e caratteristiche delle strutture di sosta"@it, "Apstāšanās vietu izvietojums un funkcijas"@lv, "Stotelės vieta ir funkcijos"@lt, "Locatie en kenmerken van haltevoorzieningen"@nl, "Lokalizacja i funkcje obiektów przystankowych"@pl, "Localização e caraterísticas das instalações de paragem"@pt-pt, "Locația și caracteristicile facilităților de oprire"@ro, "Hållplatsanläggningarnas läge och funktioner"@sv, "Umiestnenie a funkcie zastávok"@sk, "Lokacija in značilnosti postajališč"@sl, "Ubicación y características de las paradas"@es, "Umístění a funkce zastávek"@cs, "Megállóhelyek elhelyezkedése és jellemzői"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/stop-facilities-geometry-and-map-layout>
-  skos:prefLabel "Stop facilities geometry and map layout"@en ;
+  skos:prefLabel "Stop facilities geometry and map layout"@en, "Geometrie der Haltestelleneinrichtungen und Kartenlayout"@de, "Геометрия на съоръженията за спиране и оформление на картата"@bg, "Stopfaciliteters geometri og kortlayout"@da, "Peatusrajatiste geomeetria ja kaardi paigutus"@et, "Pysäkkien geometria ja kartan asettelu"@fi, "Géométrie des arrêts et disposition des cartes"@fr, "Γεωμετρία εγκαταστάσεων στάσης και διάταξη χάρτη"@el, "Geometria delle strutture di sosta e layout della mappa"@it, "Apstāšanās objektu ģeometrija un kartes izkārtojums"@lv, "Stotelių geometrija ir žemėlapio išdėstymas"@lt, "Stopfaciliteitengeometrie en kaartlay-out"@nl, "Geometria obiektów przystankowych i układ mapy"@pl, "Geometria das instalações de paragem e traçado do mapa"@pt-pt, "Geometria instalațiilor de oprire și aspectul hărții"@ro, "Geometri och kartlayout för hållplatsanläggningar"@sv, "Geometria zastávok a rozloženie mapy"@sk, "Geometrija postajališč in postavitev zemljevida"@sl, "Geometría de las instalaciones de parada y disposición cartográfica"@es, "Geometrie zastávek a rozvržení mapy"@cs, "A megállóhely geometriája és a térkép elrendezése"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/stop-facilities-status-of-features>
-  skos:prefLabel "Stop facilities status of features"@en ;
+  skos:prefLabel "Stop facilities status of features"@en, "Einrichtungen anhalten Status der Merkmale"@de, "Спиране на състоянието на съоръженията"@bg, "Stop faciliteter status for funktioner"@da, "Funktsioonide seisundi peatamine"@et, "Pysäytä tilat ominaisuuksien tila"@fi, "Arrêter les installations Statut des caractéristiques"@fr, "Διακοπή εγκαταστάσεων κατάσταση των χαρακτηριστικών"@el, "Interrompere lo stato delle strutture delle funzioni"@it, "Funkciju apstāšanās objektu statuss"@lv, "Sustabdyti objektų funkcijų būseną"@lt, "Stop voorzieningen status van functies"@nl, "Status funkcji Stop facilities"@pl, "Parar instalações estado das caraterísticas"@pt-pt, "Starea facilităților de oprire a caracteristicilor"@ro, "Stoppa anläggningar status för funktioner"@sv, "Zastavenie zariadenia stav funkcií"@sk, "Ustavite objekte stanje funkcij"@sl, "Detener instalaciones estado de las funciones"@es, "Zastavení zařízení stav funkcí"@cs, "A funkciók leállítása a létesítmények állapotában"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/stop-facilities-accessibility-and-paths-within-facility>
-  skos:prefLabel "Stop facilities accessibility and paths within facility"@en ;
+  skos:prefLabel "Stop facilities accessibility and paths within facility"@en, "Zugänglichkeit der Haltestelleneinrichtungen und Wege innerhalb der Einrichtung"@de, "Достъпност на съоръженията за спиране и пътеките в рамките на съоръжението"@bg, "Stopfaciliteters tilgængelighed og stier inden for faciliteten"@da, "Peatusrajatiste juurdepääsetavus ja teed rajatise sees"@et, "Pysähtymispaikkojen saavutettavuus ja kulkuväylät paikan sisällä"@fi, "Accessibilité des installations d'arrêt et chemins à l'intérieur des installations"@fr, "Προσβασιμότητα εγκαταστάσεων στάσης και διαδρομές εντός της εγκατάστασης"@el, "Accessibilità delle strutture di sosta e percorsi all'interno della struttura"@it, "Pieturvietu pieejamība un celiņi objektā"@lv, "Stotelių prieinamumas ir takai objekte"@lt, "Toegankelijkheid van stopfaciliteiten en paden binnen de faciliteit"@nl, "Dostępność przystanków i ścieżek w obrębie obiektu"@pl, "Acessibilidade das instalações de paragem e caminhos dentro das instalações"@pt-pt, "Accesibilitatea instalațiilor de oprire și căile din cadrul instalației"@ro, "Tillgänglighet till stoppanläggningar och stigar inom anläggningen"@sv, "Prístupnosť zastávok a ciest v rámci zariadenia"@sk, "Dostopnost objektov postajališč in poti znotraj objekta"@sl, "Accesibilidad de las instalaciones de parada y caminos dentro de las instalaciones"@es, "Přístupnost zastávek a cest v objektu"@cs, "Megállóhelyek megközelíthetősége és a létesítményen belüli utak"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/operational-calendar>
-  skos:prefLabel "Operational Calendar"@en ;
+  skos:prefLabel "Operational Calendar"@en, "Operativer Kalender"@de, "Оперативен календар"@bg, "Operationel kalender"@da, "Operatiivne kalender"@et, "Toimintakalenteri"@fi, "Calendrier opérationnel"@fr, "Λειτουργικό ημερολόγιο"@el, "Calendario operativo"@it, "Darbības kalendārs"@lv, "Veiklos kalendorius"@lt, "Operationele kalender"@nl, "Kalendarz operacyjny"@pl, "Calendário operacional"@pt-pt, "Calendar operațional"@ro, "Operativ kalender"@sv, "Prevádzkový kalendár"@sk, "Operativni koledar"@sl, "Calendario operativo"@es, "Provozní kalendář"@cs, "Működési naptár"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/connection-links>
-  skos:prefLabel "Connection links"@en ;
+  skos:prefLabel "Connection links"@en, "Verbindung Links"@de, "Връзки за свързване"@bg, "Forbindelseslinks"@da, "Ühenduslülitused"@et, "Yhteyslinkit"@fi, "Liens de connexion"@fr, "Σύνδεσμοι σύνδεσης"@el, "Collegamenti di connessione"@it, "Savienojuma saites"@lv, "Ryšio nuorodos"@lt, "Verbindingen"@nl, "Połączenia"@pl, "Ligações de ligação"@pt-pt, "Legături de conectare"@ro, "Anslutningslänkar"@sv, "Prepojenia"@sk, "Povezave za povezavo"@sl, "Enlaces de conexión"@es, "Odkazy na připojení"@cs, "Csatlakozási linkek"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/network-topology-and-routes-lines>
-  skos:prefLabel "Network topology and routes/lines"@en ;
+  skos:prefLabel "Network topology and routes/lines"@en, "Netztopologie und Routen/Leitungen"@de, "Топология на мрежата и маршрути/линии"@bg, "Netværkstopologi og ruter/linjer"@da, "Võrgu topoloogia ja marsruudid/liinid"@et, "Verkkotopologia ja reitit/linjat"@fi, "Topologie du réseau et routes/lignes"@fr, "Τοπολογία δικτύου και διαδρομές/γραμμές"@el, "Topologia di rete e percorsi/linee"@it, "Tīkla topoloģija un maršruti/līnijas"@lv, "Tinklo topologija ir maršrutai / linijos"@lt, "Netwerktopologie en routes/lijnen"@nl, "Topologia sieci i trasy/linie"@pl, "Topologia de rede e rotas/linhas"@pt-pt, "Topologia rețelei și rute/linii"@ro, "Nätverkstopologi och rutter/linjer"@sv, "Topológia siete a trasy/linky"@sk, "Topologija omrežja in poti/linij"@sl, "Topología de red y rutas/líneas"@es, "Topologie sítě a trasy/linky"@cs, "Hálózati topológia és útvonalak/vonalak"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/transport-operators>
-  skos:prefLabel "Transport operators"@en ;
+  skos:prefLabel "Transport operators"@en, "Verkehrsunternehmen"@de, "Транспортни оператори"@bg, "Transportvirksomheder"@da, "Transpordiettevõtjad"@et, "Liikenteenharjoittajat"@fi, "Opérateurs de transport"@fr, "Επιχειρήσεις μεταφορών"@el, "Operatori del trasporto"@it, "Transporta operatori"@lv, "Transporto operatoriai"@lt, "Vervoerders"@nl, "Operatorzy transportu"@pl, "Operadores de transportes"@pt-pt, "Operatori de transport"@ro, "Transportföretag"@sv, "Dopravcovia"@sk, "prevozniki"@sl, "Operadores de transporte"@es, "Dopravci"@cs, "Közlekedési szolgáltatók"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/timetables-static>
-  skos:prefLabel "Timetables static"@en ;
+  skos:prefLabel "Timetables static"@en, "Fahrpläne statisch"@de, "Статични разписания"@bg, "Køreplaner statiske"@da, "Sõiduplaanid staatilised"@et, "Aikataulut staattiset"@fi, "Horaires statiques"@fr, "Στατικά χρονοδιαγράμματα"@el, "Orari statici"@it, "Grafiki statiski"@lv, "Statiniai tvarkaraščiai"@lt, "Statische dienstregelingen"@nl, "Statyczne rozkłady jazdy"@pl, "Horários estáticos"@pt-pt, "Orar static"@ro, "Tidtabeller statiska"@sv, "Rozvrhy statické"@sk, "Statični vozni redi"@sl, "Horarios estáticos"@es, "Statické jízdní řády"@cs, "Statikus menetrendek"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/real-time-estimated-departure-and-arrival-times>
-  skos:prefLabel "Real-time estimated departure and arrival times"@en ;
+  skos:prefLabel "Real-time estimated departure and arrival times"@en, "Geschätzte Abfahrts- und Ankunftszeiten in Echtzeit"@de, "Очаквано време на тръгване и пристигане в реално време"@bg, "Anslåede afgangs- og ankomsttider i realtid"@da, "Reaalajas hinnanguline väljumis- ja saabumisaeg"@et, "Reaaliaikaiset arvioidut lähtö- ja saapumisajat"@fi, "Estimation en temps réel des heures de départ et d'arrivée"@fr, "Εκτιμώμενοι χρόνοι αναχώρησης και άφιξης σε πραγματικό χρόνο"@el, "Orari di partenza e di arrivo stimati in tempo reale"@it, "Reāllaika paredzamais izlidošanas un ielidošanas laiks"@lv, "Realiuoju laiku apskaičiuotas išvykimo ir atvykimo laikas"@lt, "Real-time geschatte vertrek- en aankomsttijden"@nl, "Szacowany czas odlotu i przylotu w czasie rzeczywistym"@pl, "Estimativa das horas de partida e chegada em tempo real"@pt-pt, "Ore estimate de plecare și sosire în timp real"@ro, "Beräknade avgångs- och ankomsttider i realtid"@sv, "Odhadovaný čas odchodu a príchodu v reálnom čase"@sk, "Ocenjeni časi odhodov in prihodov v realnem času"@sl, "Horas estimadas de salida y llegada en tiempo real"@es, "Odhadované časy odletů a příletů v reálném čase"@cs, "Valós idejű becsült indulási és érkezési idő"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/planned-interchanges-between-scheduled-services>
-  skos:prefLabel "Planned interchanges between scheduled services"@en ;
+  skos:prefLabel "Planned interchanges between scheduled services"@en, "Geplante Umsteigemöglichkeiten zwischen Linienverkehren"@de, "Планирани размествания между планирани услуги"@bg, "Planlagte skift mellem rutetjenester"@da, "Planeeritud ümberistumised regulaarliinide vahel"@et, "Suunnitellut vaihtoyhteydet aikataulun mukaisten reittien välillä"@fi, "Echanges planifiés entre services réguliers"@fr, "Προγραμματισμένες εναλλαγές μεταξύ τακτικών δρομολογίων"@el, "Interscambi programmati tra servizi di linea"@it, "Plānotas pārsēšanās starp regulārajiem pakalpojumiem"@lv, "Planuojami suplanuotų paslaugų persėdimai"@lt, "Geplande overstappen tussen lijndiensten"@nl, "Planowane przesiadki między regularnymi usługami"@pl, "Intercâmbios planeados entre serviços regulares"@pt-pt, "Schimburi planificate între servicii regulate"@ro, "Planerade byten mellan reguljära tjänster"@sv, "Plánované výmeny medzi plánovanými službami"@sk, "Načrtovane zamenjave med rednimi prevozi"@sl, "Intercambios previstos entre servicios regulares"@es, "Plánované přestupy mezi plánovanými službami"@cs, "Menetrend szerinti járatok közötti tervezett átszállások"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/hours-of-operation>
-  skos:prefLabel "Hours of operation"@en ;
+  skos:prefLabel "Hours of operation"@en, "Betriebszeiten"@de, "Часове на работа"@bg, "Åbningstider"@da, "Tööaeg"@et, "Toiminta-aika"@fi, "Heures d'ouverture"@fr, "Ώρες λειτουργίας"@el, "Orari di funzionamento"@it, "Darba laiks"@lv, "Darbo valandos"@lt, "Werktijden"@nl, "Godziny pracy"@pl, "Horário de funcionamento"@pt-pt, "Ore de funcționare"@ro, "Öppettider för verksamheten"@sv, "Prevádzkové hodiny"@sk, "Delovni čas"@sl, "Horario de apertura"@es, "Provozní doba"@cs, "Működési idő"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/vehicle-details>
-  skos:prefLabel "Vehicle details"@en ;
+  skos:prefLabel "Vehicle details"@en, "Details zum Fahrzeug"@de, "Данни за автомобила"@bg, "Detaljer om køretøjet"@da, "Sõiduki andmed"@et, "Ajoneuvon tiedot"@fi, "Détails du véhicule"@fr, "Λεπτομέρειες οχήματος"@el, "Dettagli del veicolo"@it, "Informācija par transportlīdzekli"@lv, "Informacija apie transporto priemonę"@lt, "Voertuiggegevens"@nl, "Szczegóły pojazdu"@pl, "Detalhes do veículo"@pt-pt, "Detalii privind vehiculul"@ro, "Uppgifter om fordonet"@sv, "Podrobnosti o vozidle"@sk, "Podrobnosti o vozilu"@sl, "Datos del vehículo"@es, "Podrobnosti o vozidle"@cs, "A jármű adatai"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/environmental-standards-for-vehicles>
-  skos:prefLabel "Environmental standards for vehicles"@en ;
+  skos:prefLabel "Environmental standards for vehicles"@en, "Umweltstandards für Fahrzeuge"@de, "Екологични стандарти за превозни средства"@bg, "Miljøstandarder for køretøjer"@da, "Sõidukite keskkonnastandardid"@et, "Ajoneuvojen ympäristönormit"@fi, "Normes environnementales pour les véhicules"@fr, "Περιβαλλοντικά πρότυπα για τα οχήματα"@el, "Standard ambientali per i veicoli"@it, "Transportlīdzekļu vides standarti"@lv, "Transporto priemonių aplinkosaugos standartai"@lt, "Milieunormen voor voertuigen"@nl, "Normy środowiskowe dla pojazdów"@pl, "Normas ambientais para veículos"@pt-pt, "Standarde de mediu pentru vehicule"@ro, "Miljöstandarder för fordon"@sv, "Environmentálne normy pre vozidlá"@sk, "Okoljski standardi za vozila"@sl, "Normas medioambientales para vehículos"@es, "Ekologické normy pro vozidla"@cs, "A járművekre vonatkozó környezetvédelmi előírások"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-non-scheduled-transport>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-scheduled-transport>, <https://w3id.org/mobilitydcat-ap/mobility-theme/sharing-and-hiring-services> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/disruptions-delays-cancellations>
-  skos:prefLabel "Disruptions, delays, cancellations"@en ;
+  skos:prefLabel "Disruptions, delays, cancellations"@en, "Unterbrechungen, Verspätungen, Annullierungen"@de, "Прекъсвания, закъснения, отмени"@bg, "Afbrydelser, forsinkelser, aflysninger"@da, "Häired, hilinemised, tühistamised"@et, "Häiriöt, viivästykset ja peruutukset"@fi, "Perturbations, retards, annulations"@fr, "Διακοπές, καθυστερήσεις, ακυρώσεις"@el, "Interruzioni, ritardi, cancellazioni"@it, "Traucējumi, kavēšanās, atcelšana"@lv, "Sutrikimai, vėlavimai, atšaukimai"@lt, "Storingen, vertragingen, annuleringen"@nl, "Zakłócenia, opóźnienia, odwołania"@pl, "Perturbações, atrasos, cancelamentos"@pt-pt, "Întreruperi, întârzieri, anulări"@ro, "Störningar, förseningar, inställda avgångar"@sv, "Prerušenia, meškania, zrušenia"@sk, "Motnje, zamude, odpovedi"@sl, "Interrupciones, retrasos, cancelaciones"@es, "Přerušení, zpoždění, zrušení"@cs, "Zavarok, késések, lemondások"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/basic-common-standard-fares>
-  skos:prefLabel "Basic common standard fares"@en ;
+  skos:prefLabel "Basic common standard fares"@en, "Gemeinsame Standard-Grundtarife"@de, "Основни общи стандартни тарифи"@bg, "Grundlæggende fælles standardpriser"@da, "Ühised põhilised standardtariifid"@et, "Yhteiset perushinnat"@fi, "Tarifs de base communs"@fr, "Βασικοί κοινοί τυποποιημένοι ναύλοι"@el, "Tariffe standard comuni di base"@it, "Kopējie pamata standarta tarifi"@lv, "Pagrindiniai bendri standartiniai tarifai"@lt, "Standaard basistarieven"@nl, "Podstawowe taryfy standardowe"@pl, "Tarifas normais comuns de base"@pt-pt, "Tarife standard comune de bază"@ro, "Gemensamma standardpriser för baspriser"@sv, "Základné bežné štandardné tarify"@sk, "Osnovne skupne standardne vozovnice"@sl, "Tarifas estándar básicas comunes"@es, "Základní běžné standardní tarify"@cs, "Közös standard alaptarifák"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/passenger-classes>
-  skos:prefLabel "Passenger classes"@en ;
+  skos:prefLabel "Passenger classes"@en, "Fahrgastklassen"@de, "Класове пътници"@bg, "Passagerklasser"@da, "Reisijaklassid"@et, "Matkustajaluokat"@fi, "Classes de passagers"@fr, "Κατηγορίες επιβατών"@el, "Classi di passeggeri"@it, "Pasažieru klases"@lv, "Keleivių klasės"@lt, "Passagiersklassen"@nl, "Klasy pasażerów"@pl, "Classes de passageiros"@pt-pt, "Clase de pasageri"@ro, "Passagerarklasser"@sv, "Triedy cestujúcich"@sk, "Potniški razredi"@sl, "Clases de pasajeros"@es, "Třídy pro cestující"@cs, "Utasosztályok"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/common-fare-products>
-  skos:prefLabel "Common fare products"@en ;
+  skos:prefLabel "Common fare products"@en, "Gemeinsame Tarifprodukte"@de, "Общи тарифни продукти"@bg, "Almindelige billetprodukter"@da, "Üldine piletihind"@et, "Yhteiset tuotteet"@fi, "Produits du tarif commun"@fr, "Κοινά προϊόντα ναύλου"@el, "Prodotti tariffari comuni"@it, "Parastie tarifa produkti"@lv, "Bendrieji tarifų produktai"@lt, "Algemene tariefproducten"@nl, "Popularne produkty taryfowe"@pl, "Produtos tarifários comuns"@pt-pt, "Produse tarifare comune"@ro, "Produkter med gemensamt pris"@sv, "Bežné tarifné produkty"@sk, "Običajni tarifni izdelki"@sl, "Productos de tarifa común"@es, "Běžné výrobky z jízdného"@cs, "Közös árutermékek"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/special-fare-products>
-  skos:prefLabel "Special Fare Products"@en ;
+  skos:prefLabel "Special Fare Products"@en, "Spezialtarife Produkte"@de, "Специални продукти Fare"@bg, "Produkter til særlige priser"@da, "Erihinnaga tooted"@et, "Special Fare -tuotteet"@fi, "Produits à tarification spéciale"@fr, "Προϊόντα ειδικού ναύλου"@el, "Prodotti a tariffa speciale"@it, "Īpašie tarifa produkti"@lv, "Specialūs Fare produktai"@lt, "Special Fare-producten"@nl, "Produkty Special Fare"@pl, "Produtos de tarifa especial"@pt-pt, "Produse speciale"@ro, "Produkter för specialkost"@sv, "Špeciálne výrobky Fare"@sk, "Posebni izdelki Fare"@sl, "Productos especiales"@es, "Produkty Special Fare"@cs, "Különleges árú termékek"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/basic-commercial-conditions>
-  skos:prefLabel "Basic commercial conditions"@en ;
+  skos:prefLabel "Basic commercial conditions"@en, "Kommerzielle Grundbedingungen"@de, "Основни търговски условия"@bg, "Grundlæggende kommercielle betingelser"@da, "Põhilised äritingimused"@et, "Kaupalliset perusedellytykset"@fi, "Conditions commerciales de base"@fr, "Βασικοί εμπορικοί όροι"@el, "Condizioni commerciali di base"@it, "Komerciālās darbības pamatnosacījumi"@lv, "Pagrindinės komercinės sąlygos"@lt, "Commerciële basisvoorwaarden"@nl, "Podstawowe warunki handlowe"@pl, "Condições comerciais de base"@pt-pt, "Condiții comerciale de bază"@ro, "Grundläggande kommersiella villkor"@sv, "Základné obchodné podmienky"@sk, "Osnovni komercialni pogoji"@sl, "Condiciones comerciales básicas"@es, "Základní obchodní podmínky"@cs, "Alapvető kereskedelmi feltételek"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/purchase-information>
-  skos:prefLabel "Purchase information"@en ;
+  skos:prefLabel "Purchase information"@en, "Informationen zum Kauf"@de, "Информация за закупуване"@bg, "Information om køb"@da, "Ostuteave"@et, "Ostotiedot"@fi, "Informations sur les achats"@fr, "Πληροφορίες αγοράς"@el, "Informazioni sull'acquisto"@it, "Pirkuma informācija"@lv, "Pirkimo informacija"@lt, "Aankoopinformatie"@nl, "Informacje o zakupie"@pl, "Informações de compra"@pt-pt, "Informații privind achiziția"@ro, "Information om köp"@sv, "Informácie o nákupe"@sk, "Informacije o nakupu"@sl, "Información de compra"@es, "Informace o nákupu"@cs, "Vásárlási információk"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-non-scheduled-transport>
   skos:narrower <https://w3id.org/mobilitydcat-ap/mobility-theme/accesibility-information-for-vehicles>, <https://w3id.org/mobilitydcat-ap/mobility-theme/environmental-standards-for-vehicles>, <https://w3id.org/mobilitydcat-ap/mobility-theme/fares>, <https://w3id.org/mobilitydcat-ap/mobility-theme/locations-and-stations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/provider-data>, <https://w3id.org/mobilitydcat-ap/mobility-theme/reservation-and-purchase-options>, <https://w3id.org/mobilitydcat-ap/mobility-theme/service-areas-and-service-times> ;
-  skos:prefLabel "Public transport non-scheduled transport"@en ;
+  skos:prefLabel "Public transport non-scheduled transport"@en, "Öffentliche Verkehrsmittel außerplanmäßiger Verkehr"@de, "Обществен транспорт нередовен транспорт"@bg, "Offentlig transport uden for rutefart"@da, "Regulaarväline ühistransport"@et, "Julkinen liikenne ei-säännöllinen liikenne"@fi, "Transports publics non réguliers"@fr, "Δημόσιες μεταφορές μη τακτικές μεταφορές"@el, "Trasporto pubblico non di linea"@it, "Sabiedriskais transports neregulārais transports"@lv, "Viešasis transportas nereguliarusis transportas"@lt, "Openbaar vervoer niet-geregeld vervoer"@nl, "Transport publiczny nieregularny"@pl, "Transportes públicos não regulares"@pt-pt, "Transport public transport neprogramat"@ro, "Kollektivtrafik icke schemalagd trafik"@sv, "Verejná nepravidelná doprava"@sk, "Javni prevoz neredni prevoz"@sl, "Transporte público no regular"@es, "Veřejná nepravidelná doprava"@cs, "Tömegközlekedés nem menetrend szerinti közlekedés"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-category> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/provider-data>
-  skos:prefLabel "Provider data"@en ;
+  skos:prefLabel "Provider data"@en, "Daten des Anbieters"@de, "Данни за доставчика"@bg, "Udbyderens data"@da, "Teenuseosutaja andmed"@et, "Palveluntarjoajan tiedot"@fi, "Données du fournisseur"@fr, "Δεδομένα παρόχου"@el, "Dati del fornitore"@it, "Nodrošinātāja dati"@lv, "Teikėjo duomenys"@lt, "Gegevens aanbieder"@nl, "Dane dostawcy"@pl, "Dados do fornecedor"@pt-pt, "Datele furnizorului"@ro, "Uppgifter om leverantör"@sv, "Údaje poskytovateľa"@sk, "Podatki o ponudniku"@sl, "Datos del proveedor"@es, "Údaje o poskytovateli"@cs, "Szolgáltatói adatok"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-non-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/service-areas-and-service-times>
-  skos:prefLabel "Service areas and service times"@en ;
+  skos:prefLabel "Service areas and service times"@en, "Servicebereiche und Servicezeiten"@de, "Области на обслужване и време за обслужване"@bg, "Serviceområder og servicetider"@da, "Teeninduspiirkonnad ja teenindusaeg"@et, "Palvelualueet ja palveluajat"@fi, "Zones de service et heures de service"@fr, "Περιοχές εξυπηρέτησης και χρόνοι εξυπηρέτησης"@el, "Aree di servizio e orari di servizio"@it, "Pakalpojumu zonas un pakalpojumu sniegšanas laiki"@lv, "Aptarnavimo sritys ir aptarnavimo laikas"@lt, "Servicegebieden en servicetijden"@nl, "Obszary usług i czasy usług"@pl, "Áreas de serviço e horários de serviço"@pt-pt, "Zone de serviciu și perioade de serviciu"@ro, "Serviceområden och servicetider"@sv, "Oblasti služieb a časy poskytovania služieb"@sk, "Območja storitev in čas opravljanja storitev"@sl, "Zonas y horarios de servicio"@es, "Oblasti služeb a časy poskytování služeb"@cs, "Szolgáltatási területek és szolgáltatási idők"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-non-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/locations-and-stations>
-  skos:prefLabel "Locations and stations"@en ;
+  skos:prefLabel "Locations and stations"@en, "Standorte und Stationen"@de, "Местоположения и станции"@bg, "Steder og stationer"@da, "Asukohad ja jaamad"@et, "Paikat ja asemat"@fi, "Lieux et stations"@fr, "Τοποθεσίες και σταθμοί"@el, "Luoghi e stazioni"@it, "Atrašanās vietas un stacijas"@lv, "Vietos ir stotys"@lt, "Locaties en stations"@nl, "Lokalizacje i stacje"@pl, "Localizações e estações"@pt-pt, "Locații și stații"@ro, "Platser och stationer"@sv, "Lokality a stanice"@sk, "Lokacije in postaje"@sl, "Ubicaciones y estaciones"@es, "Umístění a stanice"@cs, "Helyszínek és állomások"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-non-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/fares>
-  skos:prefLabel "Fares"@en ;
+  skos:prefLabel "Fares"@en, "Fahrpreise"@de, "Такси"@bg, "Priserne"@da, "Fares"@et, "Hinnat"@fi, "Tarifs"@fr, "Ναύλοι"@el, "Tariffe"@it, "Tarifi"@lv, "Tarifai"@lt, "Tarieven"@nl, "Taryfy"@pl, "Tarifas"@pt-pt, "Tarife"@ro, "Biljettpriser"@sv, "Tarify"@sk, "Tarife"@sl, "Tarifas"@es, "Tarify"@cs, "Viteldíjak"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-non-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/reservation-and-purchase-options>
-  skos:prefLabel "Reservation and purchase options"@en ;
+  skos:prefLabel "Reservation and purchase options"@en, "Reservierungs- und Kaufoptionen"@de, "Възможности за резервиране и закупуване"@bg, "Reservations- og købsmuligheder"@da, "Broneerimis- ja ostuvõimalused"@et, "Varaus- ja ostovaihtoehdot"@fi, "Options de réservation et d'achat"@fr, "Επιλογές κράτησης και αγοράς"@el, "Opzioni di prenotazione e acquisto"@it, "Rezervācijas un iegādes iespējas"@lv, "Rezervacijos ir pirkimo parinktys"@lt, "Reserverings- en aankoopopties"@nl, "Opcje rezerwacji i zakupu"@pl, "Opções de reserva e compra"@pt-pt, "Opțiuni de rezervare și cumpărare"@ro, "Boknings- och köpalternativ"@sv, "Možnosti rezervácie a nákupu"@sk, "Možnosti rezervacije in nakupa"@sl, "Opciones de reserva y compra"@es, "Možnosti rezervace a nákupu"@cs, "Foglalási és vásárlási lehetőségek"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-non-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/accesibility-information-for-vehicles>
-  skos:prefLabel "Accesibility information for vehicles"@en ;
+  skos:prefLabel "Accesibility information for vehicles"@en, "Zugänglichkeitsinformationen für Fahrzeuge"@de, "Информация за достъпността на превозните средства"@bg, "Information om tilgængelighed for køretøjer"@da, "Teave sõidukite juurdepääsetavuse kohta"@et, "Ajoneuvojen esteettömyyttä koskevat tiedot"@fi, "Informations sur l'accessibilité des véhicules"@fr, "Πληροφορίες προσβασιμότητας για τα οχήματα"@el, "Informazioni sull'accessibilità dei veicoli"@it, "Informācija par transportlīdzekļu pieejamību"@lv, "Informacija apie transporto priemonių prieinamumą"@lt, "Toegankelijkheidsinformatie voor voertuigen"@nl, "Informacje o dostępności pojazdów"@pl, "Informações sobre a acessibilidade dos veículos"@pt-pt, "Informații privind accesibilitatea vehiculelor"@ro, "Information om tillgänglighet för fordon"@sv, "Informácie o prístupnosti vozidiel"@sk, "Informacije o dostopnosti vozil"@sl, "Información sobre la accesibilidad de los vehículos"@es, "Informace o přístupnosti vozidel"@cs, "Járművek megközelíthetőségére vonatkozó információk"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-non-scheduled-transport> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/sharing-and-hiring-services>
   skos:narrower <https://w3id.org/mobilitydcat-ap/mobility-theme/bike-hiring-availability>, <https://w3id.org/mobilitydcat-ap/mobility-theme/bike-hiring-stations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/bike-sharing-availability>, <https://w3id.org/mobilitydcat-ap/mobility-theme/bike-sharing-locations-and-stations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/car-hiring-availability>, <https://w3id.org/mobilitydcat-ap/mobility-theme/car-hiring-stations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/car-sharing-availability>, <https://w3id.org/mobilitydcat-ap/mobility-theme/car-sharing-locations-and-stations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/e-scooter-sharing-availability>, <https://w3id.org/mobilitydcat-ap/mobility-theme/e-scooter-sharing-locations-and-stations>, <https://w3id.org/mobilitydcat-ap/mobility-theme/environmental-standards-for-vehicles>, <https://w3id.org/mobilitydcat-ap/mobility-theme/payment-methods> ;
-  skos:prefLabel "Sharing and Hiring Services"@en ;
+  skos:prefLabel "Sharing and Hiring Services"@en, "Gemeinsame Nutzung und Anmietung von Diensten"@de, "Споделяне и наемане на услуги"@bg, "Deling og udlejning af tjenester"@da, "Teenuste jagamine ja rentimine"@et, "Palvelujen jakaminen ja vuokraaminen"@fi, "Services de partage et d'embauche"@fr, "Υπηρεσίες κοινής χρήσης και μίσθωσης"@el, "Servizi di condivisione e assunzione"@it, "Koplietošanas un nomas pakalpojumi"@lv, "Dalijimosi ir nuomos paslaugos"@lt, "Diensten delen en inhuren"@nl, "Usługi udostępniania i wynajmu"@pl, "Serviços de partilha e contratação"@pt-pt, "Servicii de partajare și angajare"@ro, "Tjänster för delning och inhyrning"@sv, "Zdieľanie a prenájom služieb"@sk, "Storitve souporabe in najema"@sl, "Compartir y contratar servicios"@es, "Sdílení a pronájem služeb"@cs, "Szolgáltatások megosztása és bérbeadása"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-category> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/bike-sharing-locations-and-stations>
-  skos:prefLabel "Bike-sharing Locations and stations"@en ;
+  skos:prefLabel "Bike-sharing Locations and stations"@en, "Bike-Sharing Standorte und Stationen"@de, "Местоположения и станции за споделяне на велосипеди"@bg, "Cykeldeling Steder og stationer"@da, "Jalgratta jagamise kohad ja jaamad"@et, "Pyörän yhteiskäyttöpaikat ja -asemat"@fi, "Vélos en libre-service Emplacements et stations"@fr, "Θέσεις και σταθμοί κοινής χρήσης ποδηλάτων"@el, "Bike-sharing Luoghi e stazioni"@it, "Velosipēdu koplietošanas vietas un stacijas"@lv, "Dviračių dalijimosi vietos ir stotys"@lt, "Locaties en stations voor fietsdelen"@nl, "Bike-sharing Lokalizacje i stacje"@pl, "Partilha de bicicletas Locais e estações"@pt-pt, "Bike-sharing Locații și stații"@ro, "Cykeldelning Platser och stationer"@sv, "Zdieľanie bicyklov Lokality a stanice"@sk, "Skupna uporaba koles Lokacije in postaje"@sl, "Bicicletas compartidas Ubicaciones y estaciones"@es, "Místa a stanice pro sdílení kol"@cs, "Kerékpármegosztás Helyszínek és állomások"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/sharing-and-hiring-services> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/car-sharing-locations-and-stations>
-  skos:prefLabel "Car-sharing Locations and stations"@en ;
+  skos:prefLabel "Car-sharing Locations and stations"@en, "Carsharing Standorte und Stationen"@de, "Споделяне на автомобили Местоположения и станции"@bg, "Delebiler Steder og stationer"@da, "Autode ühiskasutuse asukohad ja jaamad"@et, "Autojen yhteiskäyttöpaikat ja -asemat"@fi, "Covoiturage Emplacements et stations"@fr, "Θέσεις και σταθμοί κοινής χρήσης αυτοκινήτων"@el, "Car-sharing Sedi e stazioni"@it, "Automašīnu koplietošanas vietas un stacijas"@lv, "Dalijimosi automobiliu vietos ir stotys"@lt, "Locaties en stations voor autodelen"@nl, "Car-sharing Lokalizacje i stacje"@pl, "Partilha de automóveis Locais e estações"@pt-pt, "Car-sharing Locații și stații"@ro, "Bilpooler Platser och stationer"@sv, "Zdieľanie vozidiel Lokality a stanice"@sk, "Skupna raba avtomobila Lokacije in postaje"@sl, "Compartir coche Ubicaciones y estaciones"@es, "Místa a stanice pro sdílení automobilů"@cs, "Autómegosztó helyek és állomások"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/sharing-and-hiring-services> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/bike-hiring-stations>
-  skos:prefLabel "Bike-hiring Stations"@en ;
+  skos:prefLabel "Bike-hiring Stations"@en, "Fahrradverleih-Stationen"@de, "Станции за наемане на велосипеди"@bg, "Stationer til cykeludlejning"@da, "Jalgrataste rendijaamad"@et, "Pyöränvuokrausasemat"@fi, "Stations de location de vélos"@fr, "Σταθμοί ενοικίασης ποδηλάτων"@el, "Stazioni di noleggio biciclette"@it, "Velosipēdu nomas stacijas"@lv, "Dviračių nuomos stotys"@lt, "Fietsverhuur stations"@nl, "Stacje wypożyczania rowerów"@pl, "Estações de aluguer de bicicletas"@pt-pt, "Stații de închiriere biciclete"@ro, "Stationer för cykeluthyrning"@sv, "Stanice na požičiavanie bicyklov"@sk, "Postaje za izposojo koles"@sl, "Estaciones de alquiler de bicicletas"@es, "Půjčovny kol"@cs, "Kerékpárkölcsönző állomások"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/sharing-and-hiring-services> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/car-hiring-stations>
-  skos:prefLabel "Car-hiring Stations"@en ;
+  skos:prefLabel "Car-hiring Stations"@en, "Autovermietungs-Stationen"@de, "Станции за наемане на автомобили"@bg, "Stationer til udlejning af biler"@da, "Autode rendijaamad"@et, "Autonvuokrausasemat"@fi, "Stations de location de voitures"@fr, "Σταθμοί ενοικίασης αυτοκινήτων"@el, "Stazioni di noleggio auto"@it, "Auto nomas stacijas"@lv, "Automobilių nuomos stotys"@lt, "Autoverhuurstations"@nl, "Stacje wynajmu samochodów"@pl, "Postos de aluguer de automóveis"@pt-pt, "Stații de închirieri auto"@ro, "Biluthyrningsstationer"@sv, "Stanice na prenájom áut"@sk, "Postaje za najem avtomobilov"@sl, "Estaciones de alquiler de coches"@es, "Půjčovny aut"@cs, "Autókölcsönző állomások"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/sharing-and-hiring-services> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/e-scooter-sharing-locations-and-stations>
-  skos:prefLabel "E-scooter-sharing Locations and stations"@en ;
+  skos:prefLabel "E-scooter-sharing Locations and stations"@en, "E-Scooter-Sharing Standorte und Stationen"@de, "Местоположения и станции за споделяне на електрически скутери"@bg, "Deling af el-scootere Steder og stationer"@da, "E-scooteri jagamise kohad ja jaamad"@et, "E-skootterin yhteiskäyttöpaikat ja -asemat"@fi, "Partage de scooters électriques Emplacements et stations"@fr, "Θέσεις και σταθμοί κοινής χρήσης σκούτερ E-scooter"@el, "E-scooter-sharing Luoghi e stazioni"@it, "E-skūteru koplietošanas vietas un stacijas"@lv, "E. paspirtukų dalijimosi vietos ir stotys"@lt, "E-scooter delen Locaties en stations"@nl, "Udostępnianie hulajnóg elektrycznych Lokalizacje i stacje"@pl, "Locais e estações de partilha de scooters electrónicas"@pt-pt, "E-scooter-sharing Locații și stații"@ro, "E-scooter-sharing Platser och stationer"@sv, "Lokality a stanice na zdieľanie elektronických skútrov"@sk, "Skupna raba e-skuterjev Lokacije in postaje"@sl, "E-scooter-sharing Ubicaciones y estaciones"@es, "Místa a stanice pro sdílení elektronických koloběžek"@cs, "E-scooter-megosztás Helyszínek és állomások"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/sharing-and-hiring-services> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/car-sharing-availability>
-  skos:prefLabel "Car-sharing Availability"@en ;
+  skos:prefLabel "Car-sharing Availability"@en, "Carsharing Verfügbarkeit"@de, "Наличност на споделени автомобили"@bg, "Tilgængelighed af bildeling"@da, "Autode ühiskasutuse kättesaadavus"@et, "Autojen yhteiskäyttö Saatavuus"@fi, "Disponibilité du covoiturage"@fr, "Διαθεσιμότητα κοινής χρήσης αυτοκινήτου"@el, "Disponibilità di car-sharing"@it, "Automašīnu koplietošanas pieejamība"@lv, "Galimybė dalytis automobiliu"@lt, "Beschikbaarheid autodelen"@nl, "Dostępność car-sharingu"@pl, "Disponibilidade de partilha de automóveis"@pt-pt, "Disponibilitatea car-sharing"@ro, "Tillgänglighet för bildelning"@sv, "Dostupnosť zdieľania automobilov"@sk, "Razpoložljivost souporabe avtomobila"@sl, "Disponibilidad de coches compartidos"@es, "Dostupnost sdílení automobilů"@cs, "Autómegosztás elérhetősége"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/sharing-and-hiring-services> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/bike-sharing-availability>
-  skos:prefLabel "Bike sharing Availability"@en ;
+  skos:prefLabel "Bike sharing Availability"@en, "Bike-Sharing Verfügbarkeit"@de, "Споделяне на велосипеди Наличност"@bg, "Cykeldeling Tilgængelighed"@da, "Jalgratta jagamine Kättesaadavus"@et, "Pyörän yhteiskäyttö Saatavuus"@fi, "Vélo en libre-service Disponibilité"@fr, "Διαθεσιμότητα κοινής χρήσης ποδηλάτων"@el, "Bike sharing Disponibilità"@it, "Velosipēdu koplietošana Pieejamība"@lv, "Dviračių dalijimasis Prieinamumas"@lt, "Fiets delen Beschikbaarheid"@nl, "Udostępnianie rowerów Dostępność"@pl, "Partilha de bicicletas Disponibilidade"@pt-pt, "Bike sharing Disponibilitate"@ro, "Cykeldelning Tillgänglighet"@sv, "Zdieľanie bicyklov Dostupnosť"@sk, "Souporaba koles Razpoložljivost"@sl, "Bicicletas compartidas Disponibilidad"@es, "Sdílení kol Dostupnost"@cs, "Kerékpármegosztás Elérhetőség"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/sharing-and-hiring-services> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/car-hiring-availability>
-  skos:prefLabel "Car-hiring Availability"@en ;
+  skos:prefLabel "Car-hiring Availability"@en, "Autovermietung Verfügbarkeit"@de, "Наем на автомобил Наличност"@bg, "Tilgængelighed af biludlejning"@da, "Autode rentimise kättesaadavus"@et, "Autonvuokraus Saatavuus"@fi, "Disponibilité de la location de voitures"@fr, "Διαθεσιμότητα ενοικίασης αυτοκινήτων"@el, "Disponibilità di noleggio auto"@it, "Auto nomas pieejamība"@lv, "Automobilių nuomos galimybės"@lt, "Beschikbaarheid autohuur"@nl, "Dostępność wynajmu samochodów"@pl, "Disponibilidade de aluguer de automóveis"@pt-pt, "Disponibilitatea închirierii de mașini"@ro, "Tillgänglighet för biluthyrning"@sv, "Dostupnosť prenájmu vozidiel"@sk, "Najem avtomobila Razpoložljivost"@sl, "Disponibilidad de alquiler de coches"@es, "Dostupnost pronájmu vozů"@cs, "Autó-bérlés Elérhetőség"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/sharing-and-hiring-services> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/bike-hiring-availability>
-  skos:prefLabel "Bike-hiring Availability"@en ;
+  skos:prefLabel "Bike-hiring Availability"@en, "Fahrradverleih Verfügbarkeit"@de, "Наличност за наемане на велосипеди"@bg, "Tilgængelighed af cykeludlejning"@da, "Jalgrataste rentimine Saadavus"@et, "Pyöränvuokraus Saatavuus"@fi, "Disponibilité des vélos"@fr, "Διαθεσιμότητα ενοικίασης ποδηλάτων"@el, "Disponibilità di noleggio biciclette"@it, "Velosipēdu noma Pieejamība"@lv, "Dviračių nuomos galimybės"@lt, "Fietsverhuur Beschikbaarheid"@nl, "Dostępność wypożyczalni rowerów"@pl, "Disponibilidade de aluguer de bicicletas"@pt-pt, "Disponibilitatea închirierii de biciclete"@ro, "Tillgänglighet för cykeluthyrning"@sv, "Prenájom bicyklov Dostupnosť"@sk, "Najem koles Razpoložljivost"@sl, "Disponibilidad de alquiler de bicicletas"@es, "Dostupnost půjčovny kol"@cs, "Kerékpár-kölcsönzés Elérhetőség"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/sharing-and-hiring-services> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/e-scooter-sharing-availability>
-  skos:prefLabel "E-scooter-sharing Availability"@en ;
+  skos:prefLabel "E-scooter-sharing Availability"@en, "E-Scooter-Sharing Verfügbarkeit"@de, "Наличност на електронно споделяне на скутери"@bg, "Deling af el-scootere Tilgængelighed"@da, "E-scooteri jagamine Kättesaadavus"@et, "E-skootterin jakaminen Saatavuus"@fi, "Disponibilité des scooters électriques"@fr, "Διαθεσιμότητα κοινής χρήσης σκούτερ E-scooter"@el, "Disponibilità di e-scooter-sharing"@it, "E-skūteru koplietošana Pieejamība"@lv, "Dalijimasis el. paspirtukais Prieinamumas"@lt, "E-scooter delen Beschikbaarheid"@nl, "Dostępność udostępniania hulajnóg elektrycznych"@pl, "Disponibilidade de partilha de scooters electrónicas"@pt-pt, "E-scooter-sharing Disponibilitate"@ro, "Delning av e-scooter Tillgänglighet"@sv, "Dostupnosť zdieľania elektronických skútrov"@sk, "Razpoložljivost souporabe e-skuterjev"@sl, "Disponibilidad de e-scooter-sharing"@es, "Dostupnost sdílení elektronických koloběžek"@cs, "E-scooter-megosztás Elérhetőség"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/sharing-and-hiring-services> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/payment-methods>
-  skos:prefLabel "Payment methods"@en ;
+  skos:prefLabel "Payment methods"@en, "Zahlungsmöglichkeiten"@de, "Методи на плащане"@bg, "Betalingsmetoder"@da, "Makseviisid"@et, "Maksutavat"@fi, "Modes de paiement"@fr, "Μέθοδοι πληρωμής"@el, "Metodi di pagamento"@it, "Maksājuma metodes"@lv, "Mokėjimo būdai"@lt, "Betaalmethoden"@nl, "Metody płatności"@pl, "Métodos de pagamento"@pt-pt, "Metode de plată"@ro, "Betalningsmetoder"@sv, "Spôsoby platby"@sk, "Načini plačila"@sl, "Formas de pago"@es, "Platební metody"@cs, "Fizetési módok"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-sub-category>, <https://w3id.org/mobilitydcat-ap/mobility-theme/sharing-and-hiring-services> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/air-and-space-travel>
-  skos:prefLabel "Air and space travel"@en ;
+  skos:prefLabel "Air and space travel"@en, "Luft- und Raumfahrt"@de, "Пътуване във въздуха и космоса"@bg, "Luft- og rumfart"@da, "Lennu- ja kosmosereisid"@et, "Lento- ja avaruusmatkailu"@fi, "Voyages aériens et spatiaux"@fr, "Αεροπορικά και διαστημικά ταξίδια"@el, "Viaggi aerei e spaziali"@it, "Gaisa un kosmosa ceļojumi"@lv, "Kelionės oru ir kosmosu"@lt, "Lucht- en ruimtevaart"@nl, "Podróże lotnicze i kosmiczne"@pl, "Viagens aéreas e espaciais"@pt-pt, "Călătorii aeriene și spațiale"@ro, "Flyg- och rymdresor"@sv, "Letecká a vesmírna doprava"@sk, "Potovanje z letalom in vesoljem"@sl, "Viajes aéreos y espaciales"@es, "Letecká a kosmická doprava"@cs, "Légi és űrutazás"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-category> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/waterways-and-water-bodies>
-  skos:prefLabel "Waterways and water bodies"@en ;
+  skos:prefLabel "Waterways and water bodies"@en, "Wasserstraßen und Wasserkörper"@de, "Водни пътища и водни обекти"@bg, "Vandveje og vandområder"@da, "Veeteed ja veekogud"@et, "Vesiväylät ja vesistöt"@fi, "Voies et plans d'eau"@fr, "Υδάτινες οδοί και υδάτινα σώματα"@el, "Corsi d'acqua e corpi idrici"@it, "Ūdensceļi un ūdenstilpes"@lv, "Vandens keliai ir vandens telkiniai"@lt, "Waterwegen en waterlichamen"@nl, "Drogi wodne i zbiorniki wodne"@pl, "Cursos de água e massas de água"@pt-pt, "Căi navigabile și corpuri de apă"@ro, "Vattenvägar och vattensamlingar"@sv, "Vodné cesty a vodné plochy"@sk, "Vodne poti in vodna telesa"@sl, "Vías navegables y masas de agua"@es, "Vodní cesty a vodní plochy"@cs, "Vízi utak és víztestek"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-category> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
 
 <https://w3id.org/mobilitydcat-ap/mobility-theme/other>
-  skos:prefLabel "Other"@en ;
+  skos:prefLabel "Other"@en, "Andere"@de, "Други"@bg, "Andet"@da, "Muud"@et, "Muut"@fi, "Autres"@fr, "Άλλα"@el, "Altro"@it, "Citi"@lv, "Kita"@lt, "Andere"@nl, "Inne"@pl, "Outros"@pt-pt, "Altele"@ro, "Övriga"@sv, "Iné"@sk, "Drugo"@sl, "Otros"@es, "Další"@cs, "Egyéb"@hu ;
   a skos:Concept ;
   skos:broader <https://w3id.org/mobilitydcat-ap/mobility-theme/data-content-category> ;
   skos:inScheme <https://w3id.org/mobilitydcat-ap/mobility-theme> .
